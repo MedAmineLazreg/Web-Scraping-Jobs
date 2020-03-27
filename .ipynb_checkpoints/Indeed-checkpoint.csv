@@ -1,0 +1,1741 @@
+Titre,Localisation,Entreprise,Salaire,Description
+DATA SCIENTIST H/F,Hauts-de-Seine,Enedis,Indisponible,"Informations générales
+Entité
+La DSI d’Enedis se positionne comme partenaire des métiers et cultive sa dimension entrepreneuriale et d’anticipation au service d’Enedis, de ses clients et des territoires. Elle propose une offre de services industrielle, performante et innovante, garantissant l’agilité du Système d'information dans un contexte de forte numérisation des métiers.
+Avec un effectif d’environ 600 collaborateurs, la DSI est au cœur des transformations d’Enedis. Engagée notamment dans l’essor des solutions SmartGrids, dans l’adaptation du Système d'Information à la transformation numérique ou dans le positionnement d’Enedis comme opérateur de données, la DSI met en œuvre de nombreux projets SI majeurs en lien avec les différents métiers concernés.
+Référence
+2020-8367
+Date de début de diffusion
+26/03/2020
+Date de fin de diffusion
+01/09/2020
+Description du poste
+Famille professionnelle / Métier
+SYSTEMES D'INFORMATION, TELECOM ET NUMERIQUE - Gestion et valorisation de la donnée
+Intitulé du poste
+DATA SCIENTIST H/F
+Type de contrat
+Alternance
+Description de la mission
+ENEDIS, filiale à 100% du Groupe EDF, assure la distribution d’électricité sur la grande majorité du territoire français. Entrez au cœur du lien entre le présent et l’avenir et participez directement au maintien de la qualité de notre réseau, rejoignez-nous !
+SYPEL (SYstème des Prévisions des ÉLectriques) est une application interne du système d’information d’Enedis. Elle a pour objectif de mieux appréhender l'évolution de l'offre et de la demande en électricité dans un contexte de forte croissance des moyens de flexibilité sur le réseau. Cette application est chargé de prévoir la consommation, la production et les pertes. Elle est alimentée par des prévisions météorologiques et climatiques, des mesures d'énergie et des événements conjoncturels : signaux tarifaires, effacements.
+L’équipe d’une dizaine de personnes est organisée en Agile / Scrum, avec 5 équipiers techniques (architecte, pilote opérationnel, développeur web, spécialiste sécurité) et 5 équipiers Data Scientists.
+
+Mission
+L’alternant rejoindra l’équipe SYPEL dans un rôle de Data Scientist. Les tâches sont variées et comprennent :
+études préliminaires permettant de déterminer l’intérêt des évolutions de l’application ;
+calibration et création de moteurs de prévision d’énergie ;
+écritures de scripts d’ingestion de nouvelles données ;
+gestion de base de données ;
+réponses aux questions des utilisateurs ;
+résolutions de bugs
+Le travail lié à la Data Science est principalement fait en python et PGSQL, mais selon les besoins les membres de l’équipe peuvent être appelés à développer en R, PHP, JavaScript, Angular, VBA, Java.
+
+Conformément aux engagements pris par Enedis en faveur de l'intégration des personnes en situation de handicap, cet emploi est ouvert à toutes et à tous.
+Profil souhaité
+Nous recherchons un étudiant de niveau M1 ou équivalent BAC +4 en formation en alternance pour l’obtention d’un diplôme M2 ou diplôme d'ingénieur en dernière année en Data Science.
+L’alternant devra avoir des bases solides en statistiques et en programmation. Il devra connaitre connaître ou être prêt à apprendre python et SQL, et être prêt à s’investir dans d’autres langages de programmation.
+L’équipe SYPEL fonctionne en mode Agile / Scrum de façon rigoureuse, l’alternant devra être prêt à intégrer un fonctionnement en équipe dynamique incluant toutes les cérémonies Scrum. En particulier il est obligatoire d’être présent à la mêlée quotidienne de 9h45 tous les jours.
+
+Date souhaitée de début de mission
+01/09/2020
+Société
+Enedis
+Localisation du poste
+Localisation du poste
+France, Ile-de-France, Hauts-de-Seine (92)
+Ville
+55 avenue des champs pierreux nanterre
+Critères candidat
+Niveau de formation
+04 - BAC +4 / BAC +5
+Spécialisation du diplôme
+DATA - Mathématiques appliquées - Statistiques
+Compétences transverses
+Capacité d'adaptation
+Autonomie
+Sens des responsabilités / Engagement
+Rigueur
+Capacité d'analyse / Esprit de synthèse"
+Ingénieur Data Scientist Junior H/F,Toulouse (31),CS Group,Indisponible,"DESCRIPTION DE L'OFFRE
+CS Group recherche un(e) Data Scientist Junior (H/F) afin d’accompagner la croissance de son activité dans le département Systèmes d'Information.
+Vous réaliserez les missions suivantes :
+Développer des outils de traitements de données : data visualisation, data wrangling, statistiques, Machine Learning, …;
+Analyser de gros volumes de données de type ‘série temporelle’, rédiger les rapports d’analyse, et assurer la présentation au client.
+
+PROFIL REQUIS
+Ingénieur de formation ou équivalent universitaire (BAC+5), vous bénéficiez de qualifications dans les domaines Statistiques, Machine Learning et Mathématiques appliqués. De plus, vous êtes compétent en développement logiciel.
+
+Vous disposez des connaissances suivantes:
+Langages Python (inlcuant Numpy, Scipy et Scikit-Learn), R, Javascript;
+MapReduce et Spark en particulier;
+Techniques de tests unitaires et de profilage de code;
+Utilisation et configuration des outils IDE tels Eclipses/IntelliJ/PyCharm;
+Gestionnaires de faits techniques, forges logicielles et outils de gestion de code source (Git).
+La maîtrise de Java et Hadoop Stack serait appréciée.
+
+Vous serez amené à faire de la rédaction et des présentations en anglais.
+Bon communiquant, votre capacité d'analyse et de résolution des problèmes sont des atouts essentiels pour réussir dans cette fonction.
+
+CS Group en quelques mots ?
+CS Group est un concepteur, intégrateur et opérateur de systèmes critiques intelligents cyberprotégés.
+En proposant des solutions innovantes dans les domaines de la cyber sécurité, des systèmes sûrs industriels et embarqués, de la continuité numérique et de la gestion de crise et de la surveillance de zones, CS Group a su s’imposer en tant que partenaire privilégié pour les acteurs des secteurs de la Défense et de la Sécurité, du Spatial, de l’Aéronautique et de l’Energie. (www.c-s.fr)
+
+Nous rejoindre c’est :
+Bénéficier d’un management de proximité.
+Progresser individuellement et collectivement.
+Evoluer dans un environnement flexible (télétravail…), à dimension humaine et convivial.
+
+Où sommes-nous situés ?
+Notre agence se situe à Saint-Martin du Touch - 6 rue Emmanuel Arin - 31300 Toulouse.
+Le site Europarc 2 est accessible en transports en commun :
+- Ligne de Bus L2 - Arrêt Jean Petit.
+Ligne C SNCF TER – Arrêt Saint-Martin
+
+Si vous préférez, CS rembourse des indemnités kilométriques vélos !
+
+Intéressé ? Déposez votre CV et additionnons nos talents !"
+Data Scientist H/F,La Défense (92),EY,Indisponible,"Dans le cadre de notre forte croissance, EY Analytics cherche à renforcer ses équipes de Data Science (130 Datascientist à Paris et 200 sur la zone Benelux) !!
+
+Nos domaines d’interventions sont très larges (marketing, industrie, secteur public, énergie, retail et consumer product, etc.). Avec plus de 500 missions dans le domaine de l’analytics et du Big Data, nous sommes le premier cabinet de conseil en France dans le secteur. Nos consultants bénéficient de l’encadrement d'un large pool de managers, tous issus des meilleures formations et ayant des expertises techniques et métiers qui permettent à nos équipes d’être rapidement formées aux nouvelles méthodes et outils.
+
+En outre, pour accélérer notre veille technologique, nous avons ouvert à la Tour First, un Lab de 600m² dédié à l’innovation autour du digital, de la data et de la blockchain. Déjà 40 nouvelles applications y ont vu le jour cette année.
+
+Vous êtes datascientist, dataminer, architect Big Data, consultant BI... H/F à la recherche d'une équipe dynamique, à la pointe des technologies et des innovations en Datascience, au service des entreprises les plus data driven, n'hésitez pas à nous contacter pour se rencontrer.
+
+Vos missions :
+
+Pour soutenir notre développement dans les domaines « Analytics » (Analyse quantitative de données, datamining, Big data, Data Science…), vous êtes responsable de la réalisation de projet d’analyse quantitative de données, datamining dans un contexte souvent CRM - Marketing : segmentations, scores d'appétence, reporting analytiques, prévisions ...
+
+Vous intervenez sur la définition de la stratégie en matière de gestion des données de nos clients ou sur le pilotage du déploiement de solutions technologiques Big Data. A partir de besoins métiers exprimés, vous encadrez l’équipe-projet et conduisez personnellement les aspects les plus sensibles de la mission client.
+
+Grâce à votre expérience, vous devez être en mesure de proposer et mettre en œuvre des méthodologies susceptibles de répondre efficacement et opérationnellement aux attentes du client dans le respect des délais et du budget prévu.
+
+Vous développez une expertise sectorielle et devez être force de proposition sur les sujets et offres à présenter à nos clients pour les accompagner dans l’excellence de leur activité.
+
+Votre profil :
+
+H/F, de formation supérieure de haut niveau en mathématiques / statistiques ou économétrie (écoles type ENSAE / ENSAI, ENSTA, Centrale Paris..), vous bénéficiez d'une expérience de 2 ans minium idéalement acquise dans un cabinet de conseil ou au sein d’un département étude/connaissance client d’un grand groupe.
+
+Vous maitrisez les principaux logiciels statistiques (R, SPSS, Modeler, SAS, etc.), les langages SQL et programmation (C, VBA, Python, etc.).
+
+Doté(e) d'un excellent sens relationnel, vous savez allier le sens de l'analyse et de la synthèse, rigueur et méthode. Vous êtes dynamique, autonome et responsable.
+Curieux(se), vous faites preuve d'esprit d'équipe et de leadership.
+
+EY certifié Great Place To Work France et également classé numéro 1 en tant que ""Best Workplace 2019"" dans la catégorie des entreprises de +de 5000 salariés. Vivez l’expérience EY, rejoignez-nous."
+CIFRE - Data Scientist pour la conduite automatique des navi...,France,Naval Group,Indisponible,"Data Scientist
+Effectuer une modélisation approfondie des données à traiter ;
+Imaginer et développer des algorithmes de traitement de données adaptées aux problématiques soulevées, réaliser les simulations et valider les performances attendues ; participer à des campagnes de collecte de l’information et des campagnes d’expérimentation réelles ;
+Optimiser la modélisation pour rendre les traitements des données plus efficaces ;
+Développer des modes de représentations adaptés à l'exploitation de la donnée ;
+Former les utilisateurs à l’emploi des traitements de données ;
+Etablir le retour d’expérience et d’amélioration des traitements ;
+Assurer une veille technologique dans ce domaine, et un rayonnement scientifique par une communication des résultats.
+
+Data Analyst / Business Intelligence
+Fournir un appui analytique à la conduite d’exploration et à l’analyse complexe de données ;
+Créer des algorithmes de recherche de données qui permettent d'explorer les données utiles ;
+Analyser et interpréter des résultats de traitement de données, intégrant sa compétence métier du réel ;
+Produire des résultats interprétés, à usage opérationnel ;
+Réaliser des bilans sur la performance attendue et les améliorations attendues ;
+Analyser le besoin utilisateur en matière de traitement des données ;
+Savoir proposer des solutions basées sur les technologies Big Data ;
+Concevoir et développer des tableaux de bord présentant les données aux utilisateurs.
+
+Ingénieur Big Data
+Concevoir, mettre en place et maintenir en conditions opérationnelles, les clusters et les services de l'infrastructure de Big Data ;
+Mettre en place des solutions techniques répondant au besoin de performances (vitesse, volume, validités et implémentation d’algorithme) requis ;
+Concourir à la définition de la politique de gestion de la data, dans son domaine d’activité ;
+Gérer la data (imports, exports, pré-traitements, sécurisation, etc.)
+Le responsable data science a pour mission de créer de la valeur d’un ensemble de données numériques, en réalisant des traitements et en la transformant afin de permettre une présentation des résultats à des équipes ou entités qui les utiliseront et à leurs clients.
+Profil
+Autonomie et initiative, Travail en équipe / Esprit de coopération, Créativité et conception, Management d'équipe, Analyse et synthèse, Connaissance générales des bâtiments de surface, sous-marins, constructions neuves et MCO, Anglais, Modélisation et simulation numérique, Langages de programmation, Intelligence artificielle (72A), Data science: big data
+Type de contrat standard
+CIFRE
+Date prévue de prise de fonction
+17/02/2020
+Durée du contrat (en mois)
+36
+Catégorie Professionnelle
+Ingénieurs et Cadres"
+DATA SCIENTIST F/H,Le Bouscat (33),Aquitem,Indisponible,"DESCRIPTION DU POSTE
+Groupe Aquitem - partenaire de votre succès !
+Créé en 1987, le groupe réunit aujourd'hui deux sociétés et 120 personnes sur le même site ayant pour cœur d’expertise la DATA :
+Aquitem, spécialiste de la conception, gestion et mise en place opérationnelle de programmes de fidélité pour les grandes enseignes
+
+Aliénor.net, spécialiste web et hébergement à valeur ajoutée sur ses propres infrastructures.
+
+Quelques mots nous caractérisent : #Qualité #Service #Innovation #Data #Technologie.
+
+AQUITEM recherche aujourd'hui un/une Data scientist.
+De formation supérieure (BAC+5) en mathématiques/statistiques, vous maîtrisez les concepts et les outils modernes de gestion des bases de données relationnelles. Vous avez déjà participé dans le cadre d'une première expérience ou de stages à la gestion de bases de gros volumes et conçu des algorithmes et des statistiques appliquées au marketing.
+
+Au sein de notre division ZeFid' qui gère des bases de données marketing de gros volumes pour des grandes enseignes, vous intégrerez l'équipe de data scientists (5 personnes) et travaillerez en étroite collaboration avec les services de la société (Direction, Chef de projet Marketing, Chef de Projet technique...)
+
+Vos missions consisteront à :
+concevoir et implémenter des modèles statistiques ou des algorithmes de machine learning (classification, scoring, recommandation, etc…)
+
+réaliser des études et des analyses permettant une meilleure connaissance du profil des clients des enseignes dont nous gérons les programmes de fidélisation afin d'optimiser ces derniers
+
+agréger, regrouper et donner du sens aux données pour les mettre à disposition des équipes marketing
+
+accompagner les équipes marketing opérationnelles sur les questions de préconisation de ciblage et d’analyses d’opérations
+
+établir des bilans statistiques et des états de reporting dont vous participerez à l'automatisation
+
+contribuer au développement de notre outil de Datavisulisation MyDataviz'
+
+
+Pour réussir sur ce poste, vous êtes curieux, rigoureux et méthodique, vous avez une bonne aisance relationnelle et rédactionnelle. Vous maîtrisez les langages SQL et R.
+
+Quelques petits plus que nous apprécierions : connaissance de Python, des bases NoSQL et d'un outil décisionnel type Business Object
+
+Chez nous, vous aurez 21 jours de RTT, des tickets restaurant, une prime de vacances et une prime de fin d’année, une excellente mutuelle et une prévoyance de branche.
+De plus, il fait bon travailler chez AQUITEM : Parking facile, accès transports en commun, prime Vélo!
+
+FORMATION EXIGÉE
+Bac+5
+
+EXPÉRIENCE EXIGÉE
+stages ou première expérience
+
+TYPE DE CONTRAT
+CDI
+
+SALAIRE INDICATIF
+selon profil
+
+LIEU DE TRAVAIL
+Le Bouscat"
+Ingénieur Data Scientist Junior F/H,Toulouse (31),CS COMMUNICATION & SYSTEMES,Indisponible,"CS Group recherche un(e)
+
+Data Scientist Junior (H/F)
+
+afin d'accompagner la croissance de son activité dans le département Systèmes d'Information.
+
+Vous réaliserez les missions suivantes :
+Développer des outils de traitements de données : data visualisation, data wrangling, statistiques, Machine Learning, …;
+
+Analyser de gros volumes de données de type 'série temporelle', rédiger les rapports d'analyse, et assurer la présentation au client.
+Profil recherché Ingénieur de formation ou équivalent universitaire (BAC+5), vous bénéficiez de qualifications dans les domaines Statistiques, Machine Learning et Mathématiques appliqués. De plus, vous êtes compétent en développement logiciel.
+
+Vous disposez des connaissances suivantes:
+Langages Python (inlcuant Numpy, Scipy et Scikit-Learn), R, Javascript;
+
+MapReduce et Spark en particulier;
+
+Techniques de tests unitaires et de profilage de code;
+
+Utilisation et configuration des outils IDE tels Eclipses/IntelliJ/PyCharm;
+
+Gestionnaires de faits techniques, forges logicielles et outils de gestion de code source (Git).
+
+La maîtrise de Java et Hadoop Stack serait appréciée.
+
+Vous serez amené à faire de la rédaction et des présentations en anglais.
+
+Bon communiquant, votre capacité d'analyse et de résolution des problèmes sont des atouts essentiels pour réussir dans cette fonction.
+Entreprise CS Group en quelques mots ?
+
+CS Group est un concepteur, intégrateur et opérateur de systèmes critiques intelligents cyberprotégés.
+
+En proposant des solutions innovantes dans les domaines de la cyber sécurité, des systèmes sûrs industriels et embarqués, de la continuité numérique et de la gestion de crise et de la surveillance de zones, CS Group a su s'imposer en tant que partenaire privilégié pour les acteurs des secteurs de la Défense et de la Sécurité, du Spatial, de l'Aéronautique et de l'Energie. (www.c-s.fr)
+
+Nous rejoindre c'est :
+Bénéficier d'un management de proximité.
+Progresser individuellement et collectivement.
+Evoluer dans un environnement flexible (télétravail…), à dimension humaine et convivial.
+Où sommes-nous situés ?
+
+Notre agence se situe à Saint-Martin du Touch - 6 rue Emmanuel Arin - 31300 Toulouse.
+
+Le site Europarc 2 est accessible en transports en commun :
+Ligne de Bus L2 - Arrêt Jean Petit.
+Ligne C SNCF TER - Arrêt Saint-Martin
+Si vous préférez, CS rembourse des indemnités kilométriques vélos !
+
+Intéressé ? Déposez votre CV et additionnons nos talents !"
+Alternance - Data Scientist F/H - Rouen,Rouen (76),Matmut,Indisponible,"Intitulé du poste externe
+Alternance - Data Scientist F/H - Rouen
+Description de la mission
+La Matmut ne fait que de l'assurance ? FAUX !
+
+400, c'est le nombre de collaborateurs travaillant au sein de la Direction Informatique de la Matmut. Une aubaine pour toi si tu souhaites nous rejoindre et proposer tes idées !
+
+Ton quotidien ?
+
+Rattaché à la Direction Informatique, tu participe aux missions de l'équipe Data (Décisionnel et DataLab).
+
+En ce sens, tu participes à la construction de solutions informatiques empiriques d'une certaine complexité pour éclairer sur des faisabilités et les moyens les plus adaptés pour les transformer en récurrents.
+
+Tu réalises le développement en SAS, SQL, Python, R. et participes à la conception d'indicateurs business et suivi d'activité.
+
+Tu rédiges et exécutes des tests et contribues à la conception et à la recherche de solutions techniques de collecte, de nettoyage, d'analyse, de visualisation de données, de développements, d'industrialisation de traitements, autour des techniques de BI classique ou du bigdata/machine learning.
+
+Tu rédiges la documentation technique et fonctionnelle, et assure la présentation des travaux réalisés.
+Profil
+Tu sais que cette offre est faite pour toi si :
+
+Tu maîtrises des outils et méthodes d'analyse et développement (SAS, SQL, Python, R), de l'organisation des structures de données, des tests.
+
+Tes connaissances dans le domaine du BigData sont fortes (acquises ou en cours d'acquisition),
+
+Tu es curieux, rigoureux, force de propositions et doté d'un bon esprit d'équipe
+
+Tes capacités rédactionnelle et de formalisation sont reconnues.
+
+Tu te reconnais ? Postules en ligne en joignant ton CV et une lettre d'accompagnement expliquant en quoi tes expériences font de toi la personne idéale pour nous rejoindre !
+
+On te parle de nous ?
+
+La Matmut recherche de nouveaux talents pour accompagner sa transformation et son développement avec engagement et ambition, tout en conservant son ADN.
+
+Confiante et bienveillante envers ses salariés, elle construit avec eux des parcours professionnels motivants. Convaincu que la diversité des potentiels est une richesse, elle accompagne, forme et fait grandir tous les talents.
+
+Depuis 1961, le Groupe Matmut est complice de vie de ses sociétaires. Profondément humain et fier de son appartenance à la famille mutualiste, il s'adresse à tous - particuliers, professionnels, entreprises, associations – en proposant une gamme complète de produits d'assurance des biens et des personnes et de services financiers et d'épargne.
+Contrat
+ALTERNANCE
+Localisation du poste
+Lieu
+66, rue de Sotteville - 76100 ROUEN"
+Data Scientist - Stage F/H,Paris (75),AG2R La Mondiale,Indisponible,"Référence : 2020-23526
+Caractéristique du poste
+Type de contrat : Stagiaire
+Pays / région / département : France, Ile-de-France , PARIS (75)
+Ville : PARIS
+Votre rôle principal
+Rattaché à la direction actuariat produit, nous recherchons un stagiaire orienté Data sciences.
+Nous vous proposons de faire évoluer les modèles actuariels classiques en saisissant les opportunités offertes par le big data et les techniques du ML (Machine Learning), tout en intégrant les contraintes réglementaires et éthiques.
+Depuis quelques années, le monde de l’assurance connait des mutations importantes :
+Digitalisation, big data, algorithmes du ML : présentent une opportunité aux assureurs leur permettant de valoriser les données (dark data), améliorer leur connaissance du risque et mieux répondre aux attentes de l’assuré.
+Cette opportunité est étroitement liée à des enjeux importants sur le marché : une concurrence accrue liée aux nouveaux arrivants (insurtechs, GAFA …) et une inflation réglementaire de plus en plus importante liée à l’utilisation éthique des données et des systèmes de l’IA.
+Vos responsabilités
+Le stagiaire sera amené à challenger les modèles actuariels et proposer des algorithmes innovants pour l'amélioration de la connaissance client (Know Your Customer) en vue de personnaliser l'offre et affiner la tarification des produits prévoyance/santé :
+Compréhension des besoins métiers en termes de modélisation du risque actuariel;
+Implémentation des modèles de ML;
+Mesure de la performance du modèle et interprétation des résultats dans un souci de réponse à la problématique métier identifiée.
+
+Vos compétences et atouts
+
+Vous suivez un cursus de formation orienté DATA Sciences.
+
+Vous avez des connaissances dans les outils suivants :
+Méthodes statistiques, SAS base et SQL
+Compréhension et connaissance d’algorithmes basiques du ML
+Librairies python pour les projets data science (pandas, sickit-learn, keras …)
+
+Dynamisme, rigueur, curiosité, ouverture d’esprit, esprit d’analyse et de synthèse"
+Consultant stagiaire - Data & Analytics - Neuilly-Sur-Seine...,Neuilly-sur-Seine (92),Grant Thornton France,Indisponible,"Analyse de données, recherche de fraude, solutions de contrôle continu, Machine Learning, Big Data…
+
+Au sein de Grant Thornton, 6e cabinet national d’audit et de conseil, nous recrutons aujourd’hui, dans le cadre du développement de notre équipe dédiée au conseil Business Risk Services, un consultant stagiaire.
+
+Le consultant aura pour principales missions d’accompagner l’équipe sur ses missions diverses en cours (participation à la production de livrables, déplacements en clientèle…) ainsi que de contribuer au développement de l’offre commerciale.
+
+Les principales missions du consultant seront les suivantes :
+Sous la supervision d’un consultant, participer à des missions de conseil portant sur la recherche de fraude, la mise en place de solutions de contrôle continu et de reportings automatisés à l’aide d’outils de Data Visualisation
+Contribuer au développement de l’entité Business Risk Services en participant à des projets internes.
+Pour ce faire, le consultant bénéficie des qualités suivantes : autonomie, proactivité, fort intérêt pour l’analyse de données, capacités rédactionnelles, analytiques et synthétiques, aisance orale, rigueur…
+
+Diplômé d’une formation d’Ecole d’Ingénieur, idéalement complétée par une spécialisation en gestion, vous souhaitez rejoindre une équipe en croissance
+
+Idéalement, vous recherchez un stage de fin d’étude à compter de septembre 2020 ou janvier 2021 pour une durée de 6 mois.
+
+Désireux de rejoindre un cabinet en croissance, vous êtes impliqué, doté d’un excellent relationnel et souhaitez travailler au sein d’équipes pluridisciplinaires. Vous êtes curieux, motivé et avez une grande capacité d’adaptation.
+
+La connaissance des outils et techniques d’analyse de données (SQL, Google Big Query, ACL, Data Studio, Python, Power BI, etc.) est un plus.
+
+Vous maîtrisez l'anglais dans un environnement professionnel.
+
+A compétences égales, travailleurs en situation de handicap bienvenus !"
+Data Scientist H/F,Clichy (92),SNCF Logistics,Indisponible,"Au sein de la practice Data Science, prendre en charge les projets de Data Analytics, essentiellement Predictive Analytics dans un premier temps avec ensuite le développement vers les sujets Prescriptif et Cognitif.
+Contribuer à la mise en place d'une plate-forme de data science.
+Profil du candidat
+Première expérience autour de la data science, manipulation de données, recherche de corrélation.
+Langages Python, SQL, NoSQL.
+Connaissance des process de machine Learning.
+Curiosité.
+Recherche de solutions.
+Ouvert, sachant écouter
+Capable de travailler en équipe
+Capacité à vulgariser son travail auprès des néophytes.
+Temps de travail en %
+100
+Localisation du poste
+Localisation du poste
+Europe, France, Île-de-France, Hauts-de-Seine
+Ville(s)
+Clichy
+Critères candidat
+Niveau d'études min. requis
+BAC+5 / MASTER
+Niveau d'expérience dans la fonction
+Débutant (1 à 5 ans d'expérience)
+Langues
+Anglais (Maitrise Courante)
+Français (Maitrise Courante)"
+Stage - Data Scientist H/F,Paris (75),Allianz France,Indisponible,"Si tu aimes coder en Python, versionner ton code avec Git, si tu veux découvrir la méthodologie agile, analyser des millions de lignes avec Spark, et qu’en plus, tu aimes jouer aux jeux de société, n’hésites pas à postuler.
+
+Au sein du département Big Data & IA de l'Unité Data, Client et Communication du groupe Allianz France, vous intégrez une équipe plateau composée de data scientists, de project managers, de data engineers et de data storytellers.
+
+Les principales missions du poste seront de :
+#- Manipuler (data validation, data cleaning, feature engineering) des typologies de données variées à la fois en termes de contenu fonctionnel que de source ou encore de format (ex : données issues des bases assurantielles, de google analytics, de l’open-data, de texte, de conversation téléphonique, des logs de navigation, d’image...).
+#- Apporter une solution analytique pour répondre aux besoins opérationnels via la création de règles métier, de dashboard, de modèle prédictive ou de segmentation.
+#- Produire des scripts industrialisables : description technique et fonctionnelle du code, création du data process,
+développement de data quality check et unit tests, alimentation et analyse des logs, session de pair-programming avec un data engineer.
+#- Suivre l’efficacité des dispositifs déployés
+Les sujets de la direction sont très variés : détection de la fraude, satisfaction client (ex : analyse d’enquête de
+satisfaction), digital (ex : mesure de la performance des campagnes digitales), marketing (ex : churn, mutli-équipement), automatisation des process internes (ex : reconnaissance automatique des documents et extraction des informations)
+
+Environnement de travail:
+Plateforme Big Data : One FS + Spark
+Editeurs : Zeppelin pour l’exploration des données, Jupyter ou Pycharm pour la mise en production
+
+Outils open source : ELK (ElasticSearch / Logstash / Kibana), H20…
+Intégration continue avec Git
+Outil de data visualisation : Microstrategy, Flask
+
+Environnement anglophone : contacts réguliers avec le datalab d’Allianz SE situé à Munich.
+
+Formation supérieure minimum BAC+5 (école d’ingénieur ou université scientifique)
+Maîtrise de Python
+Maîtrise de l’anglais
+La maîtrise de Pyspark, des commandes Linux, ou git serait un plus
+
+Qualités requises: fort sens du résultat, réactivité, curiosité, passionné, travail en équipe"
+ASSISTANT DATA SCIENTIST H/F - STAGE 3 MOIS,Mérignac (33),BNP Paribas,Indisponible,"ASSISTANT DATA SCIENTIST H/F - STAGE 3 MOIS (NUMÉRO DE L'EMPLOI : PF_20032020_1)
+
+BNP Paribas Personal Finance cherche son futur Assistant Data Scientist H/F !
+
+Zoom sur votre quotidien
+
+Dans le cadre de votre stage vous aurez pour mission de réaliser une veille sur les techniques de rééchantillonnage existantes, vous étudierez et comprendrez la mécanique de ces approches et vous identifierez leurs avantages et inconvénients en lien avec les besoins du Centre de scoring,
+
+Vous aurez pour mission de produire des tests de comparaison de ces techniques et vous essayerez de produire les règles de leur application
+Enfin vous documenterez et présenter les travaux menés à l’équipe.
+
+Les missions c’est important mais l’équipe et l’environnement de travail aussi !
+
+Au sein de la Direction des Risques, le Centre de scoring a pour mission de construire et de maintenir les modèles statistiques d’aide à la décision utilisés pour la gestion du risque dans les différentes entités du Groupe BNPP PF.
+Très souvent pour la construction de ses modèles, le Centre de scoring doit traiter des bases de données non équilibrées dans lesquelles une des modalités de la variable cible est très largement sous représentée par rapport à l’autre (ex. une proportion de fraudeurs de 1%).
+
+Dans le cadre de l’amélioration de ses pratiques, le Centre de scoring souhaite évaluer si le recours à des méthodes destinées à ré équilibrer la base de données (over- ou undersampling) peut permettre d’obtenir un modèle plus performant. Cette problématique pose également la question du choix de la métrique d’évaluation d’un modèle dans une telle situation.
+
+Pourquoi BNP Paribas Personal Finance ?
+
+
+BNP Paribas Personal Finance est la filiale du Groupe BNP Paribas, N°1 sur le financement des particuliers en France et en Europe et comprend 20.000 collaborateurs.
+
+Vous voulez connaître toutes les raisons de nous rejoindre ? Rendez-vous sur : https://www.bnpparibas-pf.com/fr/
+
+Parlons de vous maintenant !
+
+Vous préparez une formation bac+4/5 du type école d'ingénieur ou équivalent universitaire avec une spécialité en Statistique, Mathématiques appliquées ou Data science.
+
+Votre compétence porte à la fois sur les dimensions pratique (mise en œuvre) et théorique (compréhension des concepts) en Machine Learning et vous maitrisez le langage Python.
+
+Rigoureux, vous avez développé une grande capacité d’analyse et d’apprentissage.
+Enfin vous êtes à l’aise pour communiquer que se soit à l’oral ou à l’écrit.
+
+Informations complémentaires :
+
+Le stage est d'une durée de 3 mois t basé à Mérignac (33).
+
+Alors n’hésitez plus… Postulez !"
+Stage - OCR Contextualisée - Data Science,Paris (75),SCOR,Indisponible,"EMEA
+Paris France (FR)
+|
+Stage - OCR Contextualisée - Data Science
+Training Contract
+Asset Management
+About SCOR
+SCOR, the 4th largest reinsurer in the world, provides insurance companies with a diversified and innovative range of solutions and services to control and manage risk. Using its experience and expertise, “ The Art & Science of Risk ”, SCOR provides cutting-edge financial solutions, analytics tools and services in all areas related to risk – in Life & Health insurance as well as in P&C insurance. Our specialist teams operate in over 120 countries, developing value added and innovative products and services and making long-term commitments to their clients, namely insurers and large corporations.
+SCOR's aim, as an independent global reinsurance company, is to develop its Life and P&C business lines, to provide its clients with a broad range of innovative reinsurance solutions and to pursue an underwriting policy founded on profitability, supported by effective risk management and a prudent investment policy, in order to offer its clients an optimum level of security, to create value for its shareholders, and to contribute to the welfare and resilience of Society by helping to protect insureds against the risks they face.
+Dirigé par Denis KESSLER, avec 38 implantations dans le monde et intervenant auprès de plus de 4 000 clients dans le monde entier, SCOR (plus de 2 800 personnes, un chiffre d’affaires annuel de plus de 13 milliards d’euros, une cotation au SBF 120) est le premier réassureur français et le quatrième réassureur mondial.
+La mission de SCOR, en tant que compagnie de réassurance indépendante globale, est de développer ses lignes d’activité Vie et Non-Vie, d’offrir à ses clients une large gamme de solutions innovantes de réassurance, de suivre une politique de souscription fondée sur la profitabilité, supportée par une gestion du risque performante et une politique d’investissement prudente, dans l’optique d’offrir à ses clients un niveau de sécurité optimal, de créer de la valeur pour ses actionnaires et de contribuer au bien-être et à la résilience de la société en aidant à la protection des assurés contre les risques auxquels ils sont confrontés.
+- Département
+L’équipe Data Science est intégrée au sein de la communauté Data Analytics Solution et du département Knowledge. A ce titre, l’équipe supporte les différents projets de data science du monde entier et garantit la réalisation technique des services impliquant des modèles de machine learning ou plus généralement des modules informatiques automatisant certaines actions humaines.
+Le rôle de l’équipe est ainsi d’être à la pointe des techniques de predictive modelling et d’assurer l’assimilation des dernières avancés de la recherche dans le but de les appliquer. Les méthodes mises en oeuvre doivent répondre à un besoin métier existant ou probant dans un futur proche. La maitrise des outils mais aussi des théories qu’ils implémentent est ainsi primordiale. L’adéquation avec les attentes des équipes business de SCOR est au coeur des préoccupations de l’équipe Data Science.
+
+- Missions et responsabilités
+Lors du stage l’étudiant devra tenter d’apporter des réponses aux différents points suivants :
+Automatiser l’extraction d’information provenant de documents potentiellement scannés (méthodes OCR et NER)
+Traiter l’information extraite (NLP) et la relier à la classification d’un risque
+Prendre du recul quant à la mesure d’erreur potentiellement engendrée par l’algorithme et le critiquer relativement au cadre réglementaire (GDPR, S2)
+Restituer les travaux sous forme intelligible (utilisation de Git, documentation du code, rapport technique). Le livrable final sera fait sous forme d’une librairie Python.
+Comme le département a un périmètre global (mondial), l’essentiel du travail s’effectue en anglais.
+Le poste nécessite des contacts réguliers avec l’équipe de data science et de data engineer.
+L’équipe est composée actuellement de 7 data scientists (dont 2 actuaires) et travaille en étroite collaboration avec les équipes actuarielles, IT et de souscription.
+
+Dans le cadre de vos fonctions de data scientist, vous êtes chargé de :
+Recueillir les besoins métiers des bureaux locaux (France)
+Exploiter (et si besoin préparer) les données de souscription (pièces scannées, etc.)
+Mettre en place un modèle de classification des dossiers en utilisation des techniques de machine learning intégrant l’expertise métier
+Participer éventuellement aux travaux de publication du département, en apportant vos compétences en statistique et data science
+
+- Profil
+Si le stage est avant tout un moment de perfectionnement des acquis académiques, il est nécessaire pour tirer pleinement profit de l’encadrement, de disposer d’une base de connaissances suffisamment solide en mathématiques appliqués et en informatique et d’une volonté d’apprentissage certaine.
+Vous maitrisez les fondamentaux du langage Python (notamment la POO)
+Une appétence pour les thématiques assurantielles ainsi que pour la recherche est nécessaire
+Votre pragmatisme et votre sens de l’organisation vous permettront de structurer vos travaux et de vous assurer que la politique mise en place est objective et documentée
+Votre disponibilité et votre esprit d’équipe seront indispensables pour favoriser l’échange et le partage d’information et la recherche de la satisfaction de vos objectifs internes tout en étant capable d’intégrer les contraintes techniques
+Vous disposez de très bonnes qualités relationnelles pour vous permettre de travailler avec des personnalités, des cultures et des métiers différents
+Vos qualités rédactionnelles vous permettront de participer à la production de publications et articles métier
+Une bonne maitrise de l’anglais est nécessaire tant à l’écrit qu’à l’oral
+Français et anglais courants.
+Please contact your HR team should you have any question."
+Data Scientist - Stage F/H,Paris (75),AG2R La Mondiale,Indisponible,"Référence : 2020-23526
+Caractéristique du poste
+Type de contrat : Stagiaire
+Pays / région / département : France, Ile-de-France , PARIS (75)
+Ville : PARIS
+Votre rôle principal
+Rattaché à la direction actuariat produit, nous recherchons un stagiaire orienté Data sciences.
+Nous vous proposons de faire évoluer les modèles actuariels classiques en saisissant les opportunités offertes par le big data et les techniques du ML (Machine Learning), tout en intégrant les contraintes réglementaires et éthiques.
+Depuis quelques années, le monde de l’assurance connait des mutations importantes :
+Digitalisation, big data, algorithmes du ML : présentent une opportunité aux assureurs leur permettant de valoriser les données (dark data), améliorer leur connaissance du risque et mieux répondre aux attentes de l’assuré.
+Cette opportunité est étroitement liée à des enjeux importants sur le marché : une concurrence accrue liée aux nouveaux arrivants (insurtechs, GAFA …) et une inflation réglementaire de plus en plus importante liée à l’utilisation éthique des données et des systèmes de l’IA.
+Vos responsabilités
+Le stagiaire sera amené à challenger les modèles actuariels et proposer des algorithmes innovants pour l'amélioration de la connaissance client (Know Your Customer) en vue de personnaliser l'offre et affiner la tarification des produits prévoyance/santé :
+Compréhension des besoins métiers en termes de modélisation du risque actuariel;
+Implémentation des modèles de ML;
+Mesure de la performance du modèle et interprétation des résultats dans un souci de réponse à la problématique métier identifiée.
+
+Vos compétences et atouts
+
+Vous suivez un cursus de formation orienté DATA Sciences.
+
+Vous avez des connaissances dans les outils suivants :
+Méthodes statistiques, SAS base et SQL
+Compréhension et connaissance d’algorithmes basiques du ML
+Librairies python pour les projets data science (pandas, sickit-learn, keras …)
+
+Dynamisme, rigueur, curiosité, ouverture d’esprit, esprit d’analyse et de synthèse"
+Ingénieur Data Scientist expérimenté(e) H/F,Toulouse (31),CS Group,Indisponible,"DESCRIPTION DE L'OFFRE
+CS Group recherche un(e) Data Scientist expérimenté(e) H/F afin d’accompagner la croissance de son activité.
+Vous réaliserez les missions suivantes :
+Analyser de gros volumes de données de type ‘série temporelle’, développer et déployer des modèles prédictifs, et assurer la communication avec le client;
+Contribuer aux activités de prospection et d’avant-vente de l’offre ‘Maintenance Prédictive’ (compréhension du besoin, proposition de solutions techniques, réalisation de missions d’audit, …)
+
+PROFIL REQUIS
+Ingénieur de formation ou équivalent universitaire (BAC+5), vous avez une spécialité en Statistiques, Machine Learning et Mathématiques appliqués. Vous justifiez d'au minimum 5 ans d’expérience dont 2 en tant que Data Scientist.
+
+Vous disposez des compétences techniques suivantes:
+Mathématiques et statistiques (dont connaissance de R);
+Connaissances des techniques/algorithmes de Data Mining et Machine Learning;
+Langage et Framework de développement : Java, Python, SPARK;
+Connaissance des architectures BigData;
+Analyse de Time Series;
+Optionnel : Bases de données NoSQL, Hive, Traitement du Signal, Maintenance prédictive.
+Une première expérience en avant-vente serait appréciée.
+
+Force de proposition, vous parlez anglais couramment.
+
+CS Group en quelques mots ?
+CS Group est un concepteur, intégrateur et opérateur de systèmes critiques intelligents cyberprotégés.
+En proposant des solutions innovantes dans les domaines de la cyber sécurité, des systèmes sûrs industriels et embarqués, de la continuité numérique et de la gestion de crise et de la surveillance de zones, CS Group a su s’imposer en tant que partenaire privilégié pour les acteurs des secteurs de la Défense et de la Sécurité, du Spatial, de l’Aéronautique et de l’Energie. (www.c-s.fr)
+
+Nous rejoindre c’est :
+Bénéficier d’un management de proximité.
+Progresser individuellement et collectivement.
+Evoluer dans un environnement flexible (télétravail…), à dimension humaine et convivial.
+
+Où sommes-nous situés ?
+Notre agence se situe à Saint-Martin du Touch - 6 rue Emmanuel Arin - 31300 Toulouse.
+Le site Europarc 2 est accessible en transports en commun :
+- Ligne de Bus L2 - Arrêt Jean Petit.
+Ligne C SNCF TER – Arrêt Saint-Martin
+
+Si vous préférez, CS rembourse des indemnités kilométriques vélos !
+
+Intéressé ? Déposez votre CV et additionnons nos talents !"
+STAGE Data Scientist – Analyse d'image H/F,Magny-les-Hameaux (78),Safran,Indisponible,"Safran est un groupe international de haute technologie opérant dans les domaines de la propulsion et des équipements aéronautiques, de l'espace et de la défense. Implanté sur tous les continents, le Groupe emploie plus de 92 000 collaborateurs pour un chiffre d'affaires de 21 milliards d'euros en 2018. Safran occupe, seul ou en partenariat, des positions de premier plan mondial ou européen sur ses marchés. Pour répondre à l'évolution des marchés, le Groupe s'engage dans des programmes de recherche et développement qui ont représenté en 2018 des dépenses totales d'environ 1,5 milliard d'euros.
+
+Safran est classé dans le Top 100 Global Innovators de Thomson Reuters ainsi que dans le palmarès « Happy at work » des sociétés où il fait bon vivre. Le Groupe est en 4ème position du classement Universum des entreprises préférées des jeunes ingénieurs en France.
+
+Avec la numérisation progressive des outils et méthodes de travail, les secteurs de l'aéronautique, de l'espace et de la défense disposent d'une multitude de données, issues notamment des infrastructures de production et des capteurs installés sur les produits. En déployant une stratégie Big Data, Safran veut faire de l'analyse des données un levier de performance.
+
+De nombreuses possibilités d'optimisation des performances reposent sur l'analyse d'images.
+
+En se basant sur les travaux déjà réalisés chez Safran et les résultats de la littérature (Convolutional Neural Networks, Transfer Learning), vous appliquerez des techniques avancées de science des données pour extraire des informations utiles d'images et notamment identifier les défauts de pièces en production.
+Bonne connaissance de méthodes de machine learning (la connaissance des CNN est un plus).
+A l'aise en Python (la connaissance d'un framework Deep Learning est un plus – PyTorch, TensorFlow, …)
+Ouverture d'esprit, rapidité d'apprentissage, autonomie
+Capacité à communiquer des résultats techniques"
+DATA SCIENTIST F/H,Le Bouscat (33),Aquitem,Indisponible,"DESCRIPTION DU POSTE
+Groupe Aquitem - partenaire de votre succès !
+Créé en 1987, le groupe réunit aujourd'hui deux sociétés et 120 personnes sur le même site ayant pour cœur d’expertise la DATA :
+Aquitem, spécialiste de la conception, gestion et mise en place opérationnelle de programmes de fidélité pour les grandes enseignes
+
+Aliénor.net, spécialiste web et hébergement à valeur ajoutée sur ses propres infrastructures.
+
+Quelques mots nous caractérisent : #Qualité #Service #Innovation #Data #Technologie.
+
+AQUITEM recherche aujourd'hui un/une Data scientist.
+De formation supérieure (BAC+5) en mathématiques/statistiques, vous maîtrisez les concepts et les outils modernes de gestion des bases de données relationnelles. Vous avez déjà participé dans le cadre d'une première expérience ou de stages à la gestion de bases de gros volumes et conçu des algorithmes et des statistiques appliquées au marketing.
+
+Au sein de notre division ZeFid' qui gère des bases de données marketing de gros volumes pour des grandes enseignes, vous intégrerez l'équipe de data scientists (5 personnes) et travaillerez en étroite collaboration avec les services de la société (Direction, Chef de projet Marketing, Chef de Projet technique...)
+
+Vos missions consisteront à :
+concevoir et implémenter des modèles statistiques ou des algorithmes de machine learning (classification, scoring, recommandation, etc…)
+
+réaliser des études et des analyses permettant une meilleure connaissance du profil des clients des enseignes dont nous gérons les programmes de fidélisation afin d'optimiser ces derniers
+
+agréger, regrouper et donner du sens aux données pour les mettre à disposition des équipes marketing
+
+accompagner les équipes marketing opérationnelles sur les questions de préconisation de ciblage et d’analyses d’opérations
+
+établir des bilans statistiques et des états de reporting dont vous participerez à l'automatisation
+
+contribuer au développement de notre outil de Datavisulisation MyDataviz'
+
+
+Pour réussir sur ce poste, vous êtes curieux, rigoureux et méthodique, vous avez une bonne aisance relationnelle et rédactionnelle. Vous maîtrisez les langages SQL et R.
+
+Quelques petits plus que nous apprécierions : connaissance de Python, des bases NoSQL et d'un outil décisionnel type Business Object
+
+Chez nous, vous aurez 21 jours de RTT, des tickets restaurant, une prime de vacances et une prime de fin d’année, une excellente mutuelle et une prévoyance de branche.
+De plus, il fait bon travailler chez AQUITEM : Parking facile, accès transports en commun, prime Vélo!
+
+FORMATION EXIGÉE
+Bac+5
+
+EXPÉRIENCE EXIGÉE
+stages ou première expérience
+
+TYPE DE CONTRAT
+CDI
+
+SALAIRE INDICATIF
+selon profil
+
+LIEU DE TRAVAIL
+Le Bouscat"
+STAGE - Data Scientist H/F,Boulogne-Billancourt (92),BVA group,Indisponible,"À propos
+Fondée en 1970, BVA Group est une société d’études et de conseil française, experte en sciences comportementales, classée parmi les 20 premières au monde.
+Chaque jour, les collaborateurs de BVA aident les marques et les organisations à améliorer l’expérience de leurs clients, collaborateurs ou des citoyens pour générer progrès et croissance équitable.
+Les solutions conseil de leur BVA Nudge Unit, plusieurs fois primée, aident consommateurs et collaborateurs à passer de l’intention à l’action.
+Au-delà de ses différentes localisations en France, BVA possède également des bureaux à New York, Chicago, Londres, Genève, Hambourg, Francfort, Rome, Milan, Hong Kong, Shanghai et Singapour.
+Descriptif du poste
+Afin de participer à la réalisation de nos études et de nos projets de R&D, nous recherchons un(e) Stagiaire Data Scientist H/F pour notre équipe Data. Vous aurez l’opportunité de travailler pour des clients de l’univers de la banque-assurance, automobile, télécom-multimédia, tourisme, transport, industrie, du commerce et de la distribution.
+Ce que nous pouvons accomplir ensemble ?
+En tant que Stagiaire Data Scientist chez BVA, vous serez intégré à notre équipe de Data Scientists. Vous participerez à la bonne réalisation des études en prenant en charge la production d’analyses statistiques et à la mise en place de nouveaux outils ou de nouvelles méthodes.
+D’une manière générale, vous serez en charge de :
+
+1. Prendre en main et optimiser des scripts pour la mise en œuvre d’analyses statistiques multivariées (analyses factorielles, segmentations, modélisation, etc.)
+2. Accompagner les Data Scientists Séniors dans un projet de recherche et développement visant à découvrir et mettre en place de nouveaux outils ou de nouvelles méthodes sur l’un des thèmes suivants : l’exploitation des données multi sources, data expanding, modélisations complexes, machine learning…
+Vous interviendrez sur des problématiques diverses : satisfaction client, rétention/churn, potentiel marché territorialisé, … avec une particularité au niveau de la nature de données : la possibilité permanente de travailler sur l’hybridation des données multi sources (enquêtes, CRM, Open Data, Réseaux Sociaux, …).
+Vous évoluerez dans un environnement de spécialistes de la Data et serez entourés d’experts Data Scientist, Data Analyst et Data Engineer.
+Profil recherché
+Vous êtes la perle rare car …
+Vous êtes diplômé(e) d’un Bac +4/+5 en Statistique/ Econométrie, Mathématiques Appliquées ou Data Science.
+Vous avez des connaissances en :
+Statistical analysis,
+Data Mining,
+Data-driven decision making,
+Machine Learning.
+Et en termes de compétences techniques :
+Langage de programmation : R et/ou Python.
+Notebooks : RStudio et/ou Jupyter
+Logiciels statistiques : SAS et/ou SPSS
+Data Platform type Azure
+On est fait pour vous car …
+Nous avons gardé notre esprit start ’up : collaboration, reconnaissance, convivialité et esprit d’initiative font partie de nos valeurs.
+Nous avons à cœur d’associer nos collaborateurs à notre développement.
+Pour notre déménagement à Clichy en 2020, nous réinventons chaque jour notre manière de travailler. Objectifs : souplesse, agilité, liberté !
+Nos soirées sont à l’image de nos collaborateurs : créatives, innovantes et un peu folles.
+Nous offrons le petit déjeuner tous les matins, pour bien commencer la journée !
+Indemnité de stage :
+Entre 900€ et 1100€ bruts, selon le niveau d’études et durée du stage + tickets restaurant (avec la participation de l’employeur) + remboursement 50% titre de transport + 1RTT/mois.
+Début du stage : Dès que possible
+Durée : 6 mois
+Lieu : Boulogne-Billancourt (92) puis Clichy (92) dès l’été 2020.
+Informations complémentaires
+Type de contrat : Stage
+Lieu : Boulogne-Billancourt, France (92100)
+Niveau d'études : Bac +4"
+Data Scientist H/F,France,Linkvalue,Indisponible,"Si tu as...
+Une bonne maitrise des concepts de Machine Learning : apprentissage, optimisation, classification, régression, recommandation, clustering, réseaux de neurones, NLP, Computer Vision...
+Que tu partages notre passion des technos...
+Python, R, Scala, Go, JS
+Environnement : Jupyter, Spark, Hadoop, Tensorflow...
+Et que toi aussi tu exiges du code sexy …
+Maitrise des bonnes pratiques du développement et de conception
+Tests d’intégration ...
+Alors tu as ta place chez Linkvalue !
+Les plus :
+Participation aux événements majeurs de la Data Science (DotAI...)
+Evangélisation de la Data Science auprès des Partners Linkvalue
+Force de proposition sur les technos à utiliser
+Des bureaux agréables en plein coeur de ville (Paris, Lyon et Lille)
+Accès au Training Center
+Contribution aux projets du Lab autour de la data, avec 10% du temps dédié à la R&D
+Nombre d'activités et events fun (afterwork, sortie sportive, meetup, soirée, séminaire...)
+Evoluer au sein d'une entreprise co-construite avec une vraie liberté d'entreprendre
+Et plein de choses à découvrir lors de notre prochaine rencontre !"
+"CDD ingénieur de recherche ""Data Scientist"" pour le projet H...",Annecy-le-Vieux (74),CNRS,2 438 € - 3 101 € par mois,"Assurez-vous que votre profil candidat soit correctement renseigné avant de postuler. Les informations de votre profil complètent celles associées à chaque candidature. Afin d’augmenter votre visibilité sur notre Portail Emploi et ainsi permettre aux recruteurs de consulter votre profil candidat, vous avez la possibilité de déposer votre CV dans notre CVThèque en un clic !
+Informations générales
+Référence : UMR5814-CLABOM-032
+Lieu de travail : ANNECY LE VIEUX
+Date de publication : vendredi 13 mars 2020
+Type de contrat : CDD Technique/Administratif
+Durée du contrat : 24 mois
+Date d'embauche prévue : 1 mai 2020
+Quotité de travail : Temps complet
+Rémunération : entre 2437,62 € et 3101,07 € brut en fonction de l'expérience passée
+Niveau d'études souhaité : Ingénieur
+Expérience souhaitée : Indifférent
+Missions
+Le Laboratoire d'Annecy de Physique des Particules (CNRS LAPP) lance un appel à candidature pour occuper le poste de ""Data Scientist"" au sein du projet européen ESCAPE (European Science Cluster of Astronomy & Particle physics ESFRI research infrastructures) - https://projectescape.eu. ESCAPE vise à répondre aux défis de la Science Ouverte (Open Science) partagés par les projets ESFRI (CTA, ELT, EST, FAIR, HL-LHC, KM3NeT, SKA) ainsi que par d'autres infrastructures de recherche paneuropéennes (CERN, ESO, JIVERIC, EGO‐ Virgo) dans les domaines de l'astronomie et de la physique des particules.
+Dans ESCAPE, le groupe de travail ESAP (ESFRI Science Analysis Platform) est chargé de développer une plate-forme ""Open Science"" intégrant des services Web permettant d'effectuer une analyse interactive de données dans le cloud, incluant la possibilité de développer des logiciels et des ""workflows"" en ligne et de visualiser les résultats.
+Bien qu'il ne s'agisse pas d'un projet ESFRI, le Large Synoptic Survey Telescope (LSST) est en train de mettre au point une plate-forme scientifique ""open source"" qui couvre une grande partie des besoins de l'ESAP, constituant ainsi un exemple pratique à partir duquel l'ESAP pourra être développée.
+Le ""Data Scientist"" déploiera la plate-forme d'analyse scientifique et évaluera ses performances techniques ainsi que sa capacité à fournir des services scientifiques adéquats. L'extension de la plateforme d'analyse scientifique à d'autres projets ESFRI sera également explorée, ainsi que la possibilité de mettre en œuvre des services de corrélation entre différents catalogues afin de l'utiliser comme un outil d'astronomie multi-messagers.
+Activités
+Le.a candidat.e retenu.e sera chargé.e de déployer et d'évaluer les différentes composantes de la plate-forme scientifique LSST en bonne coordination avec le groupe du LAPP, les centres de calcul hébergeant la plate-forme (au LAPP ou au centre de calcul de l'IN2P3 à Villeurbanne) et les membres du ""Work Package"" ESCAPE ESAP. Une fois déployée et testée fonctionnellement, la plate-forme sera utilisée pour accéder et analyser des ensembles de données réels et simulés, traités avec les logiciels LSST. Des cas d'utilisation d'analyses réalistes seront définis et mis en œuvre avec l'aide des scientifiques locaux.
+Un lien important existe entre la plate-forme scientifique et le système de base de données parallèle de LSST: Qserv. Avec l'aide des experts locaux, le candidat retenu devra acquérir les connaissances techniques nécessaires sur le système de base de données afin de garantir une inter-opération harmonieuse des deux composants.
+En tant que membre du groupe de travail ESAP d'ESCAPE, le.a candidat.e sélectionné.e sera également chargé.e de produire toute la documentation, et les délivrables requis par le projet.
+Compétences
+Le.a candidat.e sélectionné.e aura:
+un doctorat en physique ou un diplôme d'ingénieur-e en informatique de niveau I,
+une excellente connaissance des pratiques et des outils modernes de programmation, en particulier python et git,
+une expérience dans les méthodes d'analyse de données scientifiques, la gestion de grand volume de données, l'informatique dans le cloud, les systèmes de gestion de conteneurs,
+un excellent niveau d'anglais parlé et écrit (niveau C1),
+un fort intérêt pour la science et en particulier l'astronomie et l'astrophysique,
+le sens de la rigueur dans le travail, de l'organisation et du travail d'équipe,
+la capacité de gérer son travail de manière autonome, de pouvoir prendre des initiatives et de pouvoir s'adapter rapidement à l'évolution du projet et des tâches,
+la capacité à travailler dans le cadre d'un projet international fortement distribué.
+Contexte de travail
+Le LAPP (https://lapp.in2p3.fr/) est un laboratoire de physique des hautes énergies situé à Annecy, à 50 km de Genève. Le laboratoire a été fondé en 1976 et est l'un des laboratoires de l'IN2P3 (Institut de physique nucléaire et de physique des particules), institut du CNRS (Centre national de la recherche scientifique). Le LAPP est un laboratoire commun de recherche de l'Université Savoie Mont Blanc (USMB) et du CNRS-IN2P3. Près de 150 personnes travaillent au LAPP. Les recherches menées au LAPP visent à étudier les constituants ultimes de la matière, leurs interactions fondamentales, ainsi qu'à explorer leurs liens avec les grandes structures de l'Univers. Le LAPP coordonne le projet Européen ESCAPE.
+Les États membres de l'Union européenne ont lancé l'initiative European Open Science Cloud (EOSC) afin de renforcer l'excellence des projets scientifiques basés sur l'exploitation intensive des données. EOSC est un ""cloud"" européen de recherche orienté données, permettant un accès universel aux données via une plate-forme en ligne unique. EOSC fédérera les ressources existantes dans les centres de données nationaux et les infrastructures de recherche, permettant ainsi aux chercheurs et aux citoyens d'accéder aux données produites par d'autres scientifiques et de les réutiliser.
+ESCAPE vise à relever les défis de la science ouverte partagés par les installations ESFRI (CTA, ELT, EST, FAIR, HL-LHC, KM3NeT, SKA) ainsi que par d'autres infrastructures de recherche paneuropéennes dans les domaines de l'astronomie et de la physique des particules (CERN, ESO, JIV-ERIC, EGO‐ Virgo). La complexité de tout ce nouvel environnement scientifique augmente rapidement, le volume de données produit connaît une augmentation considérable et les logiciels d'analyse des données deviennent de plus en plus complexes. D'autre part, ces données devront être accessibles aux communautés scientifiques émergentes qui collaborent et interagissent.
+Le projet ESCAPE rassemble des partenaires de l'astronomie et de la physique des particules qui contribuent à la construction de l'EOSC. Les actions ESCAPE ont pour objectif de fournir des solutions permettant d'intégrer des données, des outils, des services et des logiciels scientifiques, mais aussi de favoriser des approches communes pour la mise en œuvre de la gestion des données ouvertes et d'établir l'interopérabilité au sein d'EOSC en tant qu'installation multi-projet intégrée à la recherche fondamentale.
+
+Le.a candidat.e retenu.e sera rattaché.e à l'équipe LSST du LAPP et à ce titre, sera invité.e à contribuer à la vie scientifique du groupe.
+Contraintes et risques
+De courts séjours sont à prévoir en France et à l'étranger"
+DATA SCIENTIST F/H,Le Bouscat (33),Aquitem,Indisponible,"DESCRIPTION DU POSTE
+Groupe Aquitem - partenaire de votre succès !
+Créé en 1987, le groupe réunit aujourd'hui deux sociétés et 120 personnes sur le même site ayant pour cœur d’expertise la DATA :
+Aquitem, spécialiste de la conception, gestion et mise en place opérationnelle de programmes de fidélité pour les grandes enseignes
+
+Aliénor.net, spécialiste web et hébergement à valeur ajoutée sur ses propres infrastructures.
+
+Quelques mots nous caractérisent : #Qualité #Service #Innovation #Data #Technologie.
+
+AQUITEM recherche aujourd'hui un/une Data scientist.
+De formation supérieure (BAC+5) en mathématiques/statistiques, vous maîtrisez les concepts et les outils modernes de gestion des bases de données relationnelles. Vous avez déjà participé dans le cadre d'une première expérience ou de stages à la gestion de bases de gros volumes et conçu des algorithmes et des statistiques appliquées au marketing.
+
+Au sein de notre division ZeFid' qui gère des bases de données marketing de gros volumes pour des grandes enseignes, vous intégrerez l'équipe de data scientists (5 personnes) et travaillerez en étroite collaboration avec les services de la société (Direction, Chef de projet Marketing, Chef de Projet technique...)
+
+Vos missions consisteront à :
+concevoir et implémenter des modèles statistiques ou des algorithmes de machine learning (classification, scoring, recommandation, etc…)
+
+réaliser des études et des analyses permettant une meilleure connaissance du profil des clients des enseignes dont nous gérons les programmes de fidélisation afin d'optimiser ces derniers
+
+agréger, regrouper et donner du sens aux données pour les mettre à disposition des équipes marketing
+
+accompagner les équipes marketing opérationnelles sur les questions de préconisation de ciblage et d’analyses d’opérations
+
+établir des bilans statistiques et des états de reporting dont vous participerez à l'automatisation
+
+contribuer au développement de notre outil de Datavisulisation MyDataviz'
+
+
+Pour réussir sur ce poste, vous êtes curieux, rigoureux et méthodique, vous avez une bonne aisance relationnelle et rédactionnelle. Vous maîtrisez les langages SQL et R.
+
+Quelques petits plus que nous apprécierions : connaissance de Python, des bases NoSQL et d'un outil décisionnel type Business Object
+
+Chez nous, vous aurez 21 jours de RTT, des tickets restaurant, une prime de vacances et une prime de fin d’année, une excellente mutuelle et une prévoyance de branche.
+De plus, il fait bon travailler chez AQUITEM : Parking facile, accès transports en commun, prime Vélo!
+
+FORMATION EXIGÉE
+Bac+5
+
+EXPÉRIENCE EXIGÉE
+stages ou première expérience
+
+TYPE DE CONTRAT
+CDI
+
+SALAIRE INDICATIF
+selon profil
+
+LIEU DE TRAVAIL
+Le Bouscat"
+Stage - Data Scientist,Paris (75),Euler Hermes Group,Indisponible,"Euler Hermes helps companies expand their business worldwide by securing their trade receivables. It is the world leader in Trade Credit Insurance, and part of the Allianz Group.
+
+Euler Hermes is revolutionizing the way of delivering Credit Insurance. The company launched its data lab to accelerate the company’s digital transformation and build it into its core strategy.
+
+Our ambition is to settle a Data Driven company organization by creating Regional Data Labs to run innovative, Big Data, Machine Learning initiatives and deliver disruptive applications.
+
+EH France Data Lab is part of the “Digital Acceleration” Team, in charge of various B2B business innovations, digital product management and partnerships. It directly reports to EH France executive committee. It closely works with EH Group Data Lab, which supports and rolls-out all data science initiatives throughout the Group and helps data scientists to develop their machine learning skills.
+
+Focus will be on how to provide quantitative, data driven insights with actionable results that will underline strategic decision across all business areas – for example:
+
+Does machine learning help better identify prospects?
+How could open data increase the performance of existing models?
+How to better detect fraudulent behaviors?
+How could we improve our services with a better understanding of the customer journey?
+EH France Data Lab, as a local team of 3 data scientists, will cover the main priorities of the Region with a portfolio of data initiatives in Marketing, Commercial, Operations, Risk and Innovation.
+
+Main tasks:
+The Intern Data Scientist for EH France will report to the Lead Data Scientist and will take ownership of existing Marketing machine learning projects, his/her principal missions would be:
+
+#1 – Maintain, monitor & improve models, by being directly in charge of 2 machine learning projects in production:
+
+Research, implement and improve existing marketing models using new approaches and features
+Define KPIs and measure impacts on business for a running Churn prediction model
+Supervise the production for an existing commercial prospection algorithm into operational processes, measure the results and monitor the performance
+#2 –Support regional Data experiments
+
+Data quality assessment
+Data exploration
+Statistical analysis and machine learning modelling
+Generate reports, annotated code, and other projects artifacts to document, archive, and communicate your work and outcomes
+Perform statistical analyses and ""deep dives"" into the data, and present and discuss solutions with business partners.
+Master’s Degree in a “STEM” major (Science, Technology, Engineering, Mathematics)
+Knowledge / experience in implementing R or Python machine learning algorithms
+Demonstrated skills at data cleansing, data quality assessment, in the use of applied analytics, descriptive statistics, and predictive analytics
+Having the ability to query databases and perform statistical analysis; able to develop or program databases
+Rigorous and autonomous
+Strong entrepreneurial spirit, able to work in a fast-paced multidisciplinary environment and in close contact with business managers
+Interest in innovations and data science evolutions
+Strong written and verbal communication skills
+Fluent English spoken and written mandatory
+Euler Hermes, the world’s leading provider of credit insurance services, helps its customers around the globe to trade wisely and develop their business safely. With 6,000 employees from more than 70 nationalities, in over 50 countries, Euler Hermes offers a complete range of services for the management of B-to-B trade receivables.
+
+Euler Hermes has developed a credit intelligence network to analyze the financial stability of 40+ million businesses across the globe. Euler Hermes, a company of Allianz, is rated AA by Standard & Poor’s.
+
+At Euler Hermes, we are committed to support our employees in every step of their professional journey, provide tailor-made development programs and open gateways to international opportunities. We encourage them to take ownership and accountability, and to dare to make a difference!
+
+For more information visit http://www.eulerhermes.com/"
+Alternance - Data Scientist F/H - Rouen,Rouen (76),Matmut,Indisponible,"Intitulé du poste externe
+Alternance - Data Scientist F/H - Rouen
+Description de la mission
+La Matmut ne fait que de l'assurance ? FAUX !
+
+400, c'est le nombre de collaborateurs travaillant au sein de la Direction Informatique de la Matmut. Une aubaine pour toi si tu souhaites nous rejoindre et proposer tes idées !
+
+Ton quotidien ?
+
+Rattaché à la Direction Informatique, tu participe aux missions de l'équipe Data (Décisionnel et DataLab).
+
+En ce sens, tu participes à la construction de solutions informatiques empiriques d'une certaine complexité pour éclairer sur des faisabilités et les moyens les plus adaptés pour les transformer en récurrents.
+
+Tu réalises le développement en SAS, SQL, Python, R. et participes à la conception d'indicateurs business et suivi d'activité.
+
+Tu rédiges et exécutes des tests et contribues à la conception et à la recherche de solutions techniques de collecte, de nettoyage, d'analyse, de visualisation de données, de développements, d'industrialisation de traitements, autour des techniques de BI classique ou du bigdata/machine learning.
+
+Tu rédiges la documentation technique et fonctionnelle, et assure la présentation des travaux réalisés.
+Profil
+Tu sais que cette offre est faite pour toi si :
+
+Tu maîtrises des outils et méthodes d'analyse et développement (SAS, SQL, Python, R), de l'organisation des structures de données, des tests.
+
+Tes connaissances dans le domaine du BigData sont fortes (acquises ou en cours d'acquisition),
+
+Tu es curieux, rigoureux, force de propositions et doté d'un bon esprit d'équipe
+
+Tes capacités rédactionnelle et de formalisation sont reconnues.
+
+Tu te reconnais ? Postules en ligne en joignant ton CV et une lettre d'accompagnement expliquant en quoi tes expériences font de toi la personne idéale pour nous rejoindre !
+
+On te parle de nous ?
+
+La Matmut recherche de nouveaux talents pour accompagner sa transformation et son développement avec engagement et ambition, tout en conservant son ADN.
+
+Confiante et bienveillante envers ses salariés, elle construit avec eux des parcours professionnels motivants. Convaincu que la diversité des potentiels est une richesse, elle accompagne, forme et fait grandir tous les talents.
+
+Depuis 1961, le Groupe Matmut est complice de vie de ses sociétaires. Profondément humain et fier de son appartenance à la famille mutualiste, il s'adresse à tous - particuliers, professionnels, entreprises, associations – en proposant une gamme complète de produits d'assurance des biens et des personnes et de services financiers et d'épargne.
+Contrat
+ALTERNANCE
+Localisation du poste
+Lieu
+66, rue de Sotteville - 76100 ROUEN"
+STAGE Data Scientist – Analyse d'image H/F,Magny-les-Hameaux (78),Safran,Indisponible,"Safran est un groupe international de haute technologie opérant dans les domaines de la propulsion et des équipements aéronautiques, de l'espace et de la défense. Implanté sur tous les continents, le Groupe emploie plus de 92 000 collaborateurs pour un chiffre d'affaires de 21 milliards d'euros en 2018. Safran occupe, seul ou en partenariat, des positions de premier plan mondial ou européen sur ses marchés. Pour répondre à l'évolution des marchés, le Groupe s'engage dans des programmes de recherche et développement qui ont représenté en 2018 des dépenses totales d'environ 1,5 milliard d'euros.
+
+Safran est classé dans le Top 100 Global Innovators de Thomson Reuters ainsi que dans le palmarès « Happy at work » des sociétés où il fait bon vivre. Le Groupe est en 4ème position du classement Universum des entreprises préférées des jeunes ingénieurs en France.
+
+Avec la numérisation progressive des outils et méthodes de travail, les secteurs de l'aéronautique, de l'espace et de la défense disposent d'une multitude de données, issues notamment des infrastructures de production et des capteurs installés sur les produits. En déployant une stratégie Big Data, Safran veut faire de l'analyse des données un levier de performance.
+
+De nombreuses possibilités d'optimisation des performances reposent sur l'analyse d'images.
+
+En se basant sur les travaux déjà réalisés chez Safran et les résultats de la littérature (Convolutional Neural Networks, Transfer Learning), vous appliquerez des techniques avancées de science des données pour extraire des informations utiles d'images et notamment identifier les défauts de pièces en production.
+Bonne connaissance de méthodes de machine learning (la connaissance des CNN est un plus).
+A l'aise en Python (la connaissance d'un framework Deep Learning est un plus – PyTorch, TensorFlow, …)
+Ouverture d'esprit, rapidité d'apprentissage, autonomie
+Capacité à communiquer des résultats techniques"
+Consultant stagiaire - Data & Analytics - Neuilly-Sur-Seine...,Neuilly-sur-Seine (92),Grant Thornton France,Indisponible,"Analyse de données, recherche de fraude, solutions de contrôle continu, Machine Learning, Big Data…
+
+Au sein de Grant Thornton, 6e cabinet national d’audit et de conseil, nous recrutons aujourd’hui, dans le cadre du développement de notre équipe dédiée au conseil Business Risk Services, un consultant stagiaire.
+
+Le consultant aura pour principales missions d’accompagner l’équipe sur ses missions diverses en cours (participation à la production de livrables, déplacements en clientèle…) ainsi que de contribuer au développement de l’offre commerciale.
+
+Les principales missions du consultant seront les suivantes :
+Sous la supervision d’un consultant, participer à des missions de conseil portant sur la recherche de fraude, la mise en place de solutions de contrôle continu et de reportings automatisés à l’aide d’outils de Data Visualisation
+Contribuer au développement de l’entité Business Risk Services en participant à des projets internes.
+Pour ce faire, le consultant bénéficie des qualités suivantes : autonomie, proactivité, fort intérêt pour l’analyse de données, capacités rédactionnelles, analytiques et synthétiques, aisance orale, rigueur…
+
+Diplômé d’une formation d’Ecole d’Ingénieur, idéalement complétée par une spécialisation en gestion, vous souhaitez rejoindre une équipe en croissance
+
+Idéalement, vous recherchez un stage de fin d’étude à compter de septembre 2020 ou janvier 2021 pour une durée de 6 mois.
+
+Désireux de rejoindre un cabinet en croissance, vous êtes impliqué, doté d’un excellent relationnel et souhaitez travailler au sein d’équipes pluridisciplinaires. Vous êtes curieux, motivé et avez une grande capacité d’adaptation.
+
+La connaissance des outils et techniques d’analyse de données (SQL, Google Big Query, ACL, Data Studio, Python, Power BI, etc.) est un plus.
+
+Vous maîtrisez l'anglais dans un environnement professionnel.
+
+A compétences égales, travailleurs en situation de handicap bienvenus !"
+Data Scientist (H/F),Paris (75),Le Lynx,Indisponible,"Chez LeLynx.fr, la data est utilisée au quotidien par l’ensemble de l’équipe pour le suivi des résultats et l’aide à la prise de décision.
+Dans ce contexte, vous serez en charge de l’analyse de notre expérience client et de son impact business.
+Vous participerez à la mise en place d’un projet d’amélioration du service LeLynx.fr basé sur du machine Learning, notamment :
+choix des modèles statistiques à utiliser ;
+automatisation des modèles ;
+optimisation des modèles ;
+intégration de nouveaux indicateurs dans les modèles.
+Vous serez amené.e à :
+publier des tableaux de bord sur notre outil de BI et à produire des études de données pour les différents services business ;
+mettre à jour des modèles statistiques existants ;
+proposer de nouveaux modèles ;
+animer régulièrement des formations cross service pour faire vivre la culture data au sein de l’entreprise.
+Enfin, vous êtes le garant du bon fonctionnement de processus récurrents tels que le processus d’intégration des données partenaires suite à l’envoi de données de facturation.
+De manière générale, en tant que membre de l’équipe Data, vous serez une référence concernant l’accès aux données, leur compréhension et leur analyse, auprès de l’ensemble de l’équipe LeLynx.fr.
+Profil recherché
+Vous êtes diplomé.e d’une formation de l’enseignement supérieur avec spécialisation en machine learning. Vous possédez une première expérience en entreprise en tant que Data Scientist.
+Vous êtes à l’aise avec les outils ou langages suivants :
+R ou Python pour les modèles statistiques
+SQL pour l’extraction de données
+Tableau Software pour l’analyse et la visualisation de données
+Vous serez amené.e à échanger avec les différentes entités du groupe Admiral (en Inde, au Royaume- Uni, en Espagne). Dans ce contexte, votre niveau d’anglais est opérationnel, à l’écrit comme à l’oral. Vous êtes rigoureux.se, force de proposition et pédagogue.
+Modalités :
+Le poste est basé à Paris 19ème, le long du canal de l’Ourcq (concours de pétanque et piqueniques à foison l’été).
+Nous proposons des fruits, du café et du thé à volonté, ainsi que des sorties mensuelles (expos, bars, activités team building…), bref, tout ce qu’il faut pour que vous soyez le plus heureux possible.
+Date de démarrage : Lundi 4 mai
+Rémunération : Selon profil
+Mutuelle, carte déjeuner & remboursement transports à hauteur de 50%
+Informations complémentaires
+Type de contrat : CDI
+Date de début : 04 mai 2020
+Lieu : Paris, France (75019)
+Expérience : > 2 ans"
+Ingénieur Data Analyst H/F,Pau (64),CS Group,Indisponible,"DESCRIPTION DE L'OFFRE
+CS Group recherche un Ingénieur Data Analyst (H/F) pour :
+Concevoir, développer et optimiser des algorithmes Statistiques et de Machine Learning en mode Big Data, en travaillant sur des publications scientifiques et en coordination avec les experts du pôle Big Data;
+Participer à la conception et la mise au point des visualisations associées.
+
+Votre travail pourra être capitalisé au sein de publications scientifiques.
+
+PROFIL REQUIS
+Ingénieur de formation ou équivalent universitaire (BAC+5), vous avez une spécialité en Statistiques, Machine Learning et Mathématiques appliqués. Vous justifiez d'une expérience de 5 ans minimum sur un poste similaire.
+Vous devez également avoir des compétences en développement logiciel en particulier sur les technologies suivantes :
+Langages Python, R, Javascript, Java, Scala, Matlab, SQL;
+MapReduce et Spark;
+Techniques de tests unitaires et de profilage de code;
+Gestionnaires de faits techniques, forges logicielles et outils de gestion de code source (Git).
+
+Amené à faire de la rédaction et des présentations, vous êtes rigoureux dans votre travail.
+Autonome et curieux , vous êtes doté d'un bon relationnel.
+Vous maîtrisez l'anglais à l'écrit.
+
+CS Group en quelques mots ?
+CS Group est un concepteur, intégrateur et opérateur de systèmes critiques intelligents cyberprotégés.
+En proposant des solutions innovantes dans les domaines de la cyber sécurité, des systèmes sûrs industriels et embarqués, de la continuité numérique et de la gestion de crise et de la surveillance de zones, CS Group a su s’imposer en tant que partenaire privilégié pour les acteurs des secteurs de la Défense et de la Sécurité, du Spatial, de l’Aéronautique et de l’Energie. (www.c-s.fr)
+
+Nous rejoindre c’est :
+Bénéficier d’un management de proximité.
+Progresser individuellement et collectivement.
+Evoluer dans un environnement flexible, à dimension humaine et convivial.
+
+Intéressé ? Déposez votre CV et additionnons nos talents !"
+DATA SCIENTIST F/H,Nomexy (88),INNOTHERA NOMEXY,Indisponible,"Les principales missions auxquelles vous participerez sont les suivantes, au cœur de l’organisation à la croisée de la Production, la Qualité, la Supply Chain, la Maintenance, le Développement Produits/Process :
+
+Analyser et « faire parler » les données entreprises
+
+Rechercher les multi corrélations et proposer des règles d’affectation et de pilotage machine en s’appuyant sur un historique complet de plusieurs années
+
+Mettre en place un dispositif permettant par l’analyse des signaux faibles afin d’anticiper toute dérive qualité ou performance
+
+Structurer le recueil des données, les transformer en information et bâtir un système d’aide à la décision pour garantir une amélioration continue des standards.
+Profil recherché Formation MASTER Traitement de l'information et exploitation de données, Ingénieur d'études en traitement de l'information et analyse de données
+
+Expertise statistique et informatique. Connaissance des bases de données. connaissance des méthodes de machine Learning, maîtrise d'outils analytiques.
+
+Organisation, grande rigueur et esprit de confidentialité. Goût pour les chiffres, les statistiques et le ""terrain"".
+
+Sens de la communication, curiosité intellectuelle.
+Entreprise Animé par des valeurs profondément humanistes, INNOTHERA, laboratoire familial et indépendant, mise depuis plus de 100 ans sur l’innovation et la technologie pour améliorer le traitement des maladies du quotidien qui empoisonnent la vie de millions de personnes dans le monde. INNOTHERA NOMEXY recrute au sein de son site basé dans les Vosges (340 personnes), qui développe et produit des dispositifs médicaux pour le traitement des maladies veineuses, un data scientist, en CDD de 6 ."
+Data Scientist - ALT (h/f),Ugine (73),Ugitech,Indisponible,"Ugitech, une entreprise du Groupe SCHMOLZ + BICKENBACH, est l’un des fabricants leaders de produits longs en acier inoxydable, dans le monde entier. Ses principaux produits, les billettes, les barres, le fil machine et le fil tréfilé, sont issus de sa propre aciérie, transformés dans son laminoir à chaud et ses tréfileries. Les aciers inoxydables sont caractérisés par leurs hautes propriétés mécaniques. Ils sont utilisés pour la fabrication d’une multitude de pièces, parmi lesquelles les vannes, les composants de turbines, les baguettes de soudure ou les instruments chirurgicaux. Avec plus de 100 ans d’expérience dans la fabrication de l’acier et des travaux de recherche permanents dans le domaine de la métallurgie, l’entreprise garantit aux clients de ses marchés tels que l’industrie automobile, la construction, l’industrie des procédés, l’industrie aéronautique et spatiale, ainsi que la technique médicale, des solutions optimales pour des applications très exigeantes.
+Ugitech, leader des aciers longs inoxydables, est en route vers l'industrie 4.0.
+Pour accompagner cette transformation, la DSI met en place un Datalab dédié aux projets innovants.
+Dans ce cadre, Ugitech souhaite intégrer un alternant de niveau Master en Data Science ou équivalent pour participer au lancement de cette nouvelle activité.
+Vos Missions
+Si l'Intelligence Artificielle, le Deep Learning et le Machine Learning sont des domaines qui vous motivent, venez rejoindre nos équipes, et développer vos compétences dans un environnement industriel dynamique et agile, au coeur de nos montagnes Savoyardes.
+Durant cette alternance, vous serez amené à travailler sur de nombreux projets, touchant l'ensemble des domaines de l'entreprise : process, qualité, commercial, finances, … et l'ensemble des briques de la Data Science : Analyse, Data Integration, Data Préparation, Modélisation, Entrainement, Data Visualisation, …
+Votre Profil
+Vous préparez un diplôme d'ingénieur en informatique ou un Master spécialisé en Data Science
+Vous avez des compétences de base dans le domaine de la Data Science (traitement de données, statistiques, modélisation, data visualisation, python, etc...)
+Vous faites preuve d'autonomie, de curiosité et de motivation
+Nous vous proposons
+Une alternance d'une durée de 2 à 3 ans
+Une rémunération sur 13 mois + accord d’intéressement et de participation
+Accès au restaurant d'entreprise
+Possibilité d'indemnité d’hébergement sous conditions."
+Data Scientist - Stage F/H,Paris (75),AG2R La Mondiale,Indisponible,"Référence : 2020-23526
+Caractéristique du poste
+Type de contrat : Stagiaire
+Pays / région / département : France, Ile-de-France , PARIS (75)
+Ville : PARIS
+Votre rôle principal
+Rattaché à la direction actuariat produit, nous recherchons un stagiaire orienté Data sciences.
+Nous vous proposons de faire évoluer les modèles actuariels classiques en saisissant les opportunités offertes par le big data et les techniques du ML (Machine Learning), tout en intégrant les contraintes réglementaires et éthiques.
+Depuis quelques années, le monde de l’assurance connait des mutations importantes :
+Digitalisation, big data, algorithmes du ML : présentent une opportunité aux assureurs leur permettant de valoriser les données (dark data), améliorer leur connaissance du risque et mieux répondre aux attentes de l’assuré.
+Cette opportunité est étroitement liée à des enjeux importants sur le marché : une concurrence accrue liée aux nouveaux arrivants (insurtechs, GAFA …) et une inflation réglementaire de plus en plus importante liée à l’utilisation éthique des données et des systèmes de l’IA.
+Vos responsabilités
+Le stagiaire sera amené à challenger les modèles actuariels et proposer des algorithmes innovants pour l'amélioration de la connaissance client (Know Your Customer) en vue de personnaliser l'offre et affiner la tarification des produits prévoyance/santé :
+Compréhension des besoins métiers en termes de modélisation du risque actuariel;
+Implémentation des modèles de ML;
+Mesure de la performance du modèle et interprétation des résultats dans un souci de réponse à la problématique métier identifiée.
+
+Vos compétences et atouts
+
+Vous suivez un cursus de formation orienté DATA Sciences.
+
+Vous avez des connaissances dans les outils suivants :
+Méthodes statistiques, SAS base et SQL
+Compréhension et connaissance d’algorithmes basiques du ML
+Librairies python pour les projets data science (pandas, sickit-learn, keras …)
+
+Dynamisme, rigueur, curiosité, ouverture d’esprit, esprit d’analyse et de synthèse"
+STAGE/INTERNSHIP- Data scientist -Qualité & production (f/h),Toulouse (31),Airbus,Indisponible,"Airbus Operations SAS
+Airbus is a global leader in aeronautics, space and related services. In 2019 it generated revenues of € 70.5 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world’s leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
+
+Our people work with passion and determination to make the world a more connected, safer and smarter place. Taking pride in our work, we draw on each other's expertise and experience to achieve excellence. Our diversity and teamwork culture propel us to accomplish the extraordinary - on the ground, in the sky and in space.
+Job Description
+Et si VOTRE aventure commençait avec NOUS !
+Dans le cadre d'un cursus scolaire en formation initiale, vous recherchez un stage obligatoire ou à intégrer dans une année de césure, d'une durée de 6 mois, vous permettant de valider votre année.
+Nous vous proposons de travailler dans une entreprise leader mondial dans son domaine, tournée vers le digital, à la pointe de la recherche et de l’innovation.
+Une offre de stage en Data Scientist Qualité & Production (h/f) vient de s'ouvrir au sein de l’usine Airbus Saint-Eloi à Toulouse.
+Ce stage est à pourvoir à partir du début d'année 2020.(date flexible)
+Vous rejoindrez le pole digital du département Qualité de l’usine en charge définir la stratégie et de déployer les nouvelles technologies au sein des équipes Qualité.
+Le stage aura pour objet d’apporter une contribution significative au projet « Prédiction de la Qualité » destiné à réduire à la fois les temps d’inspection du produit et les coûts de production.
+Vous ferez partie intégrante de l’équipe projet et contribuerez à toutes ses phases, de la connectivité à la sélection et la validation de modèle prédictif.
+Tâches et responsabilités :
+Vous serez sous la responsabilité d’un chef de projet qui vous aidera à identifier vos objectifs professionnels et vous soutiendra dans le développement de vos compétences.
+Dans ce contexte, vos principales activités seront de contribuer au projet « Prédiction de la Qualité » en:
+identifiant les paramètres clé des procédés de production parmi les données collectées sur les moyens industriels de l’usine
+définissant des modèles prédictifs dans le but d’améliorer la qualité
+organisant le suivi du contrôle des paramètres des processus clés (SPC)
+Profil recherché et Compétences requises:
+Vous préparez un diplôme de niveau Bac + 5, en Ingénierie ou équivalent, avec une spécialisation en Data Science et vous avez les compétences suivantes :
+Anglais : INTERMEDIAIRE
+Français : AVANCE
+Un vif intérêt pour le monde industriel et l’exploitation des données
+Connaissance de différentes techniques de machine learning
+Une maitrise des outils tels que python, R
+Savoir-être :
+Rigoureux (se), curieux (se) et autonome
+Doté (e) d’un sens relationnel et bonne capacité de communication
+Aptitude d’analyse et de synthèse
+et pourvu(e) d’esprit d’équipe.
+Enfin des connaissances en gestion de projet seraient un plus.
+Vous pourrez, selon les offres proposées, être amené(e) à vous déplacer.
+Si votre profil retient notre attention, vous serez invité à réaliser un entretien vidéo au cours duquel vous aurez quelques minutes pour nous convaincre. Par la suite, votre candidature pourra être proposée aux managers.
+Si la perspective de rejoindre notre Groupe innovant vous motive ?
+N’hésitez pas ! Postulez en ligne ! www.airbus.com/careers
+Predictive Maintenance and Quality project has to the ambition to identify key process parameters from machine data. By putting those parameters under control (SPC), product inspections and production lead time will be reduced. Part of the project team, the candidate will contribute to all steps of the project, from machine connectivity to machine learning model selection and validation.
+
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief."
+Ingénieur Data Scientist expérimenté(e) H/F,Toulouse (31),CS Group,Indisponible,"DESCRIPTION DE L'OFFRE
+CS Group recherche un(e) Data Scientist expérimenté(e) H/F afin d’accompagner la croissance de son activité.
+Vous réaliserez les missions suivantes :
+Analyser de gros volumes de données de type ‘série temporelle’, développer et déployer des modèles prédictifs, et assurer la communication avec le client;
+Contribuer aux activités de prospection et d’avant-vente de l’offre ‘Maintenance Prédictive’ (compréhension du besoin, proposition de solutions techniques, réalisation de missions d’audit, …)
+
+PROFIL REQUIS
+Ingénieur de formation ou équivalent universitaire (BAC+5), vous avez une spécialité en Statistiques, Machine Learning et Mathématiques appliqués. Vous justifiez d'au minimum 5 ans d’expérience dont 2 en tant que Data Scientist.
+
+Vous disposez des compétences techniques suivantes:
+Mathématiques et statistiques (dont connaissance de R);
+Connaissances des techniques/algorithmes de Data Mining et Machine Learning;
+Langage et Framework de développement : Java, Python, SPARK;
+Connaissance des architectures BigData;
+Analyse de Time Series;
+Optionnel : Bases de données NoSQL, Hive, Traitement du Signal, Maintenance prédictive.
+Une première expérience en avant-vente serait appréciée.
+
+Force de proposition, vous parlez anglais couramment.
+
+CS Group en quelques mots ?
+CS Group est un concepteur, intégrateur et opérateur de systèmes critiques intelligents cyberprotégés.
+En proposant des solutions innovantes dans les domaines de la cyber sécurité, des systèmes sûrs industriels et embarqués, de la continuité numérique et de la gestion de crise et de la surveillance de zones, CS Group a su s’imposer en tant que partenaire privilégié pour les acteurs des secteurs de la Défense et de la Sécurité, du Spatial, de l’Aéronautique et de l’Energie. (www.c-s.fr)
+
+Nous rejoindre c’est :
+Bénéficier d’un management de proximité.
+Progresser individuellement et collectivement.
+Evoluer dans un environnement flexible (télétravail…), à dimension humaine et convivial.
+
+Où sommes-nous situés ?
+Notre agence se situe à Saint-Martin du Touch - 6 rue Emmanuel Arin - 31300 Toulouse.
+Le site Europarc 2 est accessible en transports en commun :
+- Ligne de Bus L2 - Arrêt Jean Petit.
+Ligne C SNCF TER – Arrêt Saint-Martin
+
+Si vous préférez, CS rembourse des indemnités kilométriques vélos !
+
+Intéressé ? Déposez votre CV et additionnons nos talents !"
+Data Scientist - ALT (h/f),Ugine (73),Ugitech,Indisponible,"Ugitech, une entreprise du Groupe SCHMOLZ + BICKENBACH, est l’un des fabricants leaders de produits longs en acier inoxydable, dans le monde entier. Ses principaux produits, les billettes, les barres, le fil machine et le fil tréfilé, sont issus de sa propre aciérie, transformés dans son laminoir à chaud et ses tréfileries. Les aciers inoxydables sont caractérisés par leurs hautes propriétés mécaniques. Ils sont utilisés pour la fabrication d’une multitude de pièces, parmi lesquelles les vannes, les composants de turbines, les baguettes de soudure ou les instruments chirurgicaux. Avec plus de 100 ans d’expérience dans la fabrication de l’acier et des travaux de recherche permanents dans le domaine de la métallurgie, l’entreprise garantit aux clients de ses marchés tels que l’industrie automobile, la construction, l’industrie des procédés, l’industrie aéronautique et spatiale, ainsi que la technique médicale, des solutions optimales pour des applications très exigeantes.
+Ugitech, leader des aciers longs inoxydables, est en route vers l'industrie 4.0.
+Pour accompagner cette transformation, la DSI met en place un Datalab dédié aux projets innovants.
+Dans ce cadre, Ugitech souhaite intégrer un alternant de niveau Master en Data Science ou équivalent pour participer au lancement de cette nouvelle activité.
+Vos Missions
+Si l'Intelligence Artificielle, le Deep Learning et le Machine Learning sont des domaines qui vous motivent, venez rejoindre nos équipes, et développer vos compétences dans un environnement industriel dynamique et agile, au coeur de nos montagnes Savoyardes.
+Durant cette alternance, vous serez amené à travailler sur de nombreux projets, touchant l'ensemble des domaines de l'entreprise : process, qualité, commercial, finances, … et l'ensemble des briques de la Data Science : Analyse, Data Integration, Data Préparation, Modélisation, Entrainement, Data Visualisation, …
+Votre Profil
+Vous préparez un diplôme d'ingénieur en informatique ou un Master spécialisé en Data Science
+Vous avez des compétences de base dans le domaine de la Data Science (traitement de données, statistiques, modélisation, data visualisation, python, etc...)
+Vous faites preuve d'autonomie, de curiosité et de motivation
+Nous vous proposons
+Une alternance d'une durée de 2 à 3 ans
+Une rémunération sur 13 mois + accord d’intéressement et de participation
+Accès au restaurant d'entreprise
+Possibilité d'indemnité d’hébergement sous conditions."
+ASSISTANT DATA SCIENTIST H/F - STAGE 3 MOIS,Mérignac (33),BNP Paribas,Indisponible,"ASSISTANT DATA SCIENTIST H/F - STAGE 3 MOIS (NUMÉRO DE L'EMPLOI : PF_20032020_1)
+
+BNP Paribas Personal Finance cherche son futur Assistant Data Scientist H/F !
+
+Zoom sur votre quotidien
+
+Dans le cadre de votre stage vous aurez pour mission de réaliser une veille sur les techniques de rééchantillonnage existantes, vous étudierez et comprendrez la mécanique de ces approches et vous identifierez leurs avantages et inconvénients en lien avec les besoins du Centre de scoring,
+
+Vous aurez pour mission de produire des tests de comparaison de ces techniques et vous essayerez de produire les règles de leur application
+Enfin vous documenterez et présenter les travaux menés à l’équipe.
+
+Les missions c’est important mais l’équipe et l’environnement de travail aussi !
+
+Au sein de la Direction des Risques, le Centre de scoring a pour mission de construire et de maintenir les modèles statistiques d’aide à la décision utilisés pour la gestion du risque dans les différentes entités du Groupe BNPP PF.
+Très souvent pour la construction de ses modèles, le Centre de scoring doit traiter des bases de données non équilibrées dans lesquelles une des modalités de la variable cible est très largement sous représentée par rapport à l’autre (ex. une proportion de fraudeurs de 1%).
+
+Dans le cadre de l’amélioration de ses pratiques, le Centre de scoring souhaite évaluer si le recours à des méthodes destinées à ré équilibrer la base de données (over- ou undersampling) peut permettre d’obtenir un modèle plus performant. Cette problématique pose également la question du choix de la métrique d’évaluation d’un modèle dans une telle situation.
+
+Pourquoi BNP Paribas Personal Finance ?
+
+
+BNP Paribas Personal Finance est la filiale du Groupe BNP Paribas, N°1 sur le financement des particuliers en France et en Europe et comprend 20.000 collaborateurs.
+
+Vous voulez connaître toutes les raisons de nous rejoindre ? Rendez-vous sur : https://www.bnpparibas-pf.com/fr/
+
+Parlons de vous maintenant !
+
+Vous préparez une formation bac+4/5 du type école d'ingénieur ou équivalent universitaire avec une spécialité en Statistique, Mathématiques appliquées ou Data science.
+
+Votre compétence porte à la fois sur les dimensions pratique (mise en œuvre) et théorique (compréhension des concepts) en Machine Learning et vous maitrisez le langage Python.
+
+Rigoureux, vous avez développé une grande capacité d’analyse et d’apprentissage.
+Enfin vous êtes à l’aise pour communiquer que se soit à l’oral ou à l’écrit.
+
+Informations complémentaires :
+
+Le stage est d'une durée de 3 mois t basé à Mérignac (33).
+
+Alors n’hésitez plus… Postulez !"
+Stage - Data Scientist,Paris (75),Euler Hermes Group,Indisponible,"Euler Hermes helps companies expand their business worldwide by securing their trade receivables. It is the world leader in Trade Credit Insurance, and part of the Allianz Group.
+
+Euler Hermes is revolutionizing the way of delivering Credit Insurance. The company launched its data lab to accelerate the company’s digital transformation and build it into its core strategy.
+
+Our ambition is to settle a Data Driven company organization by creating Regional Data Labs to run innovative, Big Data, Machine Learning initiatives and deliver disruptive applications.
+
+EH France Data Lab is part of the “Digital Acceleration” Team, in charge of various B2B business innovations, digital product management and partnerships. It directly reports to EH France executive committee. It closely works with EH Group Data Lab, which supports and rolls-out all data science initiatives throughout the Group and helps data scientists to develop their machine learning skills.
+
+Focus will be on how to provide quantitative, data driven insights with actionable results that will underline strategic decision across all business areas – for example:
+
+Does machine learning help better identify prospects?
+How could open data increase the performance of existing models?
+How to better detect fraudulent behaviors?
+How could we improve our services with a better understanding of the customer journey?
+EH France Data Lab, as a local team of 3 data scientists, will cover the main priorities of the Region with a portfolio of data initiatives in Marketing, Commercial, Operations, Risk and Innovation.
+
+Main tasks:
+The Intern Data Scientist for EH France will report to the Lead Data Scientist and will take ownership of existing Marketing machine learning projects, his/her principal missions would be:
+
+#1 – Maintain, monitor & improve models, by being directly in charge of 2 machine learning projects in production:
+
+Research, implement and improve existing marketing models using new approaches and features
+Define KPIs and measure impacts on business for a running Churn prediction model
+Supervise the production for an existing commercial prospection algorithm into operational processes, measure the results and monitor the performance
+#2 –Support regional Data experiments
+
+Data quality assessment
+Data exploration
+Statistical analysis and machine learning modelling
+Generate reports, annotated code, and other projects artifacts to document, archive, and communicate your work and outcomes
+Perform statistical analyses and ""deep dives"" into the data, and present and discuss solutions with business partners.
+Master’s Degree in a “STEM” major (Science, Technology, Engineering, Mathematics)
+Knowledge / experience in implementing R or Python machine learning algorithms
+Demonstrated skills at data cleansing, data quality assessment, in the use of applied analytics, descriptive statistics, and predictive analytics
+Having the ability to query databases and perform statistical analysis; able to develop or program databases
+Rigorous and autonomous
+Strong entrepreneurial spirit, able to work in a fast-paced multidisciplinary environment and in close contact with business managers
+Interest in innovations and data science evolutions
+Strong written and verbal communication skills
+Fluent English spoken and written mandatory
+Euler Hermes, the world’s leading provider of credit insurance services, helps its customers around the globe to trade wisely and develop their business safely. With 6,000 employees from more than 70 nationalities, in over 50 countries, Euler Hermes offers a complete range of services for the management of B-to-B trade receivables.
+
+Euler Hermes has developed a credit intelligence network to analyze the financial stability of 40+ million businesses across the globe. Euler Hermes, a company of Allianz, is rated AA by Standard & Poor’s.
+
+At Euler Hermes, we are committed to support our employees in every step of their professional journey, provide tailor-made development programs and open gateways to international opportunities. We encourage them to take ownership and accountability, and to dare to make a difference!
+
+For more information visit http://www.eulerhermes.com/"
+Stage - Data Scientist H/F,Paris (75),Allianz France,Indisponible,"Si tu aimes coder en Python, versionner ton code avec Git, si tu veux découvrir la méthodologie agile, analyser des millions de lignes avec Spark, et qu’en plus, tu aimes jouer aux jeux de société, n’hésites pas à postuler.
+
+Au sein du département Big Data & IA de l'Unité Data, Client et Communication du groupe Allianz France, vous intégrez une équipe plateau composée de data scientists, de project managers, de data engineers et de data storytellers.
+
+Les principales missions du poste seront de :
+#- Manipuler (data validation, data cleaning, feature engineering) des typologies de données variées à la fois en termes de contenu fonctionnel que de source ou encore de format (ex : données issues des bases assurantielles, de google analytics, de l’open-data, de texte, de conversation téléphonique, des logs de navigation, d’image...).
+#- Apporter une solution analytique pour répondre aux besoins opérationnels via la création de règles métier, de dashboard, de modèle prédictive ou de segmentation.
+#- Produire des scripts industrialisables : description technique et fonctionnelle du code, création du data process,
+développement de data quality check et unit tests, alimentation et analyse des logs, session de pair-programming avec un data engineer.
+#- Suivre l’efficacité des dispositifs déployés
+Les sujets de la direction sont très variés : détection de la fraude, satisfaction client (ex : analyse d’enquête de
+satisfaction), digital (ex : mesure de la performance des campagnes digitales), marketing (ex : churn, mutli-équipement), automatisation des process internes (ex : reconnaissance automatique des documents et extraction des informations)
+
+Environnement de travail:
+Plateforme Big Data : One FS + Spark
+Editeurs : Zeppelin pour l’exploration des données, Jupyter ou Pycharm pour la mise en production
+
+Outils open source : ELK (ElasticSearch / Logstash / Kibana), H20…
+Intégration continue avec Git
+Outil de data visualisation : Microstrategy, Flask
+
+Environnement anglophone : contacts réguliers avec le datalab d’Allianz SE situé à Munich.
+
+Formation supérieure minimum BAC+5 (école d’ingénieur ou université scientifique)
+Maîtrise de Python
+Maîtrise de l’anglais
+La maîtrise de Pyspark, des commandes Linux, ou git serait un plus
+
+Qualités requises: fort sens du résultat, réactivité, curiosité, passionné, travail en équipe"
+Stage - OCR Contextualisée - Data Science,Paris (75),SCOR,Indisponible,"EMEA
+Paris France (FR)
+|
+Stage - OCR Contextualisée - Data Science
+Training Contract
+Asset Management
+About SCOR
+SCOR, the 4th largest reinsurer in the world, provides insurance companies with a diversified and innovative range of solutions and services to control and manage risk. Using its experience and expertise, “ The Art & Science of Risk ”, SCOR provides cutting-edge financial solutions, analytics tools and services in all areas related to risk – in Life & Health insurance as well as in P&C insurance. Our specialist teams operate in over 120 countries, developing value added and innovative products and services and making long-term commitments to their clients, namely insurers and large corporations.
+SCOR's aim, as an independent global reinsurance company, is to develop its Life and P&C business lines, to provide its clients with a broad range of innovative reinsurance solutions and to pursue an underwriting policy founded on profitability, supported by effective risk management and a prudent investment policy, in order to offer its clients an optimum level of security, to create value for its shareholders, and to contribute to the welfare and resilience of Society by helping to protect insureds against the risks they face.
+Dirigé par Denis KESSLER, avec 38 implantations dans le monde et intervenant auprès de plus de 4 000 clients dans le monde entier, SCOR (plus de 2 800 personnes, un chiffre d’affaires annuel de plus de 13 milliards d’euros, une cotation au SBF 120) est le premier réassureur français et le quatrième réassureur mondial.
+La mission de SCOR, en tant que compagnie de réassurance indépendante globale, est de développer ses lignes d’activité Vie et Non-Vie, d’offrir à ses clients une large gamme de solutions innovantes de réassurance, de suivre une politique de souscription fondée sur la profitabilité, supportée par une gestion du risque performante et une politique d’investissement prudente, dans l’optique d’offrir à ses clients un niveau de sécurité optimal, de créer de la valeur pour ses actionnaires et de contribuer au bien-être et à la résilience de la société en aidant à la protection des assurés contre les risques auxquels ils sont confrontés.
+- Département
+L’équipe Data Science est intégrée au sein de la communauté Data Analytics Solution et du département Knowledge. A ce titre, l’équipe supporte les différents projets de data science du monde entier et garantit la réalisation technique des services impliquant des modèles de machine learning ou plus généralement des modules informatiques automatisant certaines actions humaines.
+Le rôle de l’équipe est ainsi d’être à la pointe des techniques de predictive modelling et d’assurer l’assimilation des dernières avancés de la recherche dans le but de les appliquer. Les méthodes mises en oeuvre doivent répondre à un besoin métier existant ou probant dans un futur proche. La maitrise des outils mais aussi des théories qu’ils implémentent est ainsi primordiale. L’adéquation avec les attentes des équipes business de SCOR est au coeur des préoccupations de l’équipe Data Science.
+
+- Missions et responsabilités
+Lors du stage l’étudiant devra tenter d’apporter des réponses aux différents points suivants :
+Automatiser l’extraction d’information provenant de documents potentiellement scannés (méthodes OCR et NER)
+Traiter l’information extraite (NLP) et la relier à la classification d’un risque
+Prendre du recul quant à la mesure d’erreur potentiellement engendrée par l’algorithme et le critiquer relativement au cadre réglementaire (GDPR, S2)
+Restituer les travaux sous forme intelligible (utilisation de Git, documentation du code, rapport technique). Le livrable final sera fait sous forme d’une librairie Python.
+Comme le département a un périmètre global (mondial), l’essentiel du travail s’effectue en anglais.
+Le poste nécessite des contacts réguliers avec l’équipe de data science et de data engineer.
+L’équipe est composée actuellement de 7 data scientists (dont 2 actuaires) et travaille en étroite collaboration avec les équipes actuarielles, IT et de souscription.
+
+Dans le cadre de vos fonctions de data scientist, vous êtes chargé de :
+Recueillir les besoins métiers des bureaux locaux (France)
+Exploiter (et si besoin préparer) les données de souscription (pièces scannées, etc.)
+Mettre en place un modèle de classification des dossiers en utilisation des techniques de machine learning intégrant l’expertise métier
+Participer éventuellement aux travaux de publication du département, en apportant vos compétences en statistique et data science
+
+- Profil
+Si le stage est avant tout un moment de perfectionnement des acquis académiques, il est nécessaire pour tirer pleinement profit de l’encadrement, de disposer d’une base de connaissances suffisamment solide en mathématiques appliqués et en informatique et d’une volonté d’apprentissage certaine.
+Vous maitrisez les fondamentaux du langage Python (notamment la POO)
+Une appétence pour les thématiques assurantielles ainsi que pour la recherche est nécessaire
+Votre pragmatisme et votre sens de l’organisation vous permettront de structurer vos travaux et de vous assurer que la politique mise en place est objective et documentée
+Votre disponibilité et votre esprit d’équipe seront indispensables pour favoriser l’échange et le partage d’information et la recherche de la satisfaction de vos objectifs internes tout en étant capable d’intégrer les contraintes techniques
+Vous disposez de très bonnes qualités relationnelles pour vous permettre de travailler avec des personnalités, des cultures et des métiers différents
+Vos qualités rédactionnelles vous permettront de participer à la production de publications et articles métier
+Une bonne maitrise de l’anglais est nécessaire tant à l’écrit qu’à l’oral
+Français et anglais courants.
+Please contact your HR team should you have any question."
+Data Scientist - Stage F/H,Paris (75),AG2R La Mondiale,Indisponible,"Référence : 2020-23526
+Caractéristique du poste
+Type de contrat : Stagiaire
+Pays / région / département : France, Ile-de-France , PARIS (75)
+Ville : PARIS
+Votre rôle principal
+Rattaché à la direction actuariat produit, nous recherchons un stagiaire orienté Data sciences.
+Nous vous proposons de faire évoluer les modèles actuariels classiques en saisissant les opportunités offertes par le big data et les techniques du ML (Machine Learning), tout en intégrant les contraintes réglementaires et éthiques.
+Depuis quelques années, le monde de l’assurance connait des mutations importantes :
+Digitalisation, big data, algorithmes du ML : présentent une opportunité aux assureurs leur permettant de valoriser les données (dark data), améliorer leur connaissance du risque et mieux répondre aux attentes de l’assuré.
+Cette opportunité est étroitement liée à des enjeux importants sur le marché : une concurrence accrue liée aux nouveaux arrivants (insurtechs, GAFA …) et une inflation réglementaire de plus en plus importante liée à l’utilisation éthique des données et des systèmes de l’IA.
+Vos responsabilités
+Le stagiaire sera amené à challenger les modèles actuariels et proposer des algorithmes innovants pour l'amélioration de la connaissance client (Know Your Customer) en vue de personnaliser l'offre et affiner la tarification des produits prévoyance/santé :
+Compréhension des besoins métiers en termes de modélisation du risque actuariel;
+Implémentation des modèles de ML;
+Mesure de la performance du modèle et interprétation des résultats dans un souci de réponse à la problématique métier identifiée.
+
+Vos compétences et atouts
+
+Vous suivez un cursus de formation orienté DATA Sciences.
+
+Vous avez des connaissances dans les outils suivants :
+Méthodes statistiques, SAS base et SQL
+Compréhension et connaissance d’algorithmes basiques du ML
+Librairies python pour les projets data science (pandas, sickit-learn, keras …)
+
+Dynamisme, rigueur, curiosité, ouverture d’esprit, esprit d’analyse et de synthèse"
+STAGE - Data Scientist H/F,Boulogne-Billancourt (92),BVA group,Indisponible,"À propos
+Fondée en 1970, BVA Group est une société d’études et de conseil française, experte en sciences comportementales, classée parmi les 20 premières au monde.
+Chaque jour, les collaborateurs de BVA aident les marques et les organisations à améliorer l’expérience de leurs clients, collaborateurs ou des citoyens pour générer progrès et croissance équitable.
+Les solutions conseil de leur BVA Nudge Unit, plusieurs fois primée, aident consommateurs et collaborateurs à passer de l’intention à l’action.
+Au-delà de ses différentes localisations en France, BVA possède également des bureaux à New York, Chicago, Londres, Genève, Hambourg, Francfort, Rome, Milan, Hong Kong, Shanghai et Singapour.
+Descriptif du poste
+Afin de participer à la réalisation de nos études et de nos projets de R&D, nous recherchons un(e) Stagiaire Data Scientist H/F pour notre équipe Data. Vous aurez l’opportunité de travailler pour des clients de l’univers de la banque-assurance, automobile, télécom-multimédia, tourisme, transport, industrie, du commerce et de la distribution.
+Ce que nous pouvons accomplir ensemble ?
+En tant que Stagiaire Data Scientist chez BVA, vous serez intégré à notre équipe de Data Scientists. Vous participerez à la bonne réalisation des études en prenant en charge la production d’analyses statistiques et à la mise en place de nouveaux outils ou de nouvelles méthodes.
+D’une manière générale, vous serez en charge de :
+
+1. Prendre en main et optimiser des scripts pour la mise en œuvre d’analyses statistiques multivariées (analyses factorielles, segmentations, modélisation, etc.)
+2. Accompagner les Data Scientists Séniors dans un projet de recherche et développement visant à découvrir et mettre en place de nouveaux outils ou de nouvelles méthodes sur l’un des thèmes suivants : l’exploitation des données multi sources, data expanding, modélisations complexes, machine learning…
+Vous interviendrez sur des problématiques diverses : satisfaction client, rétention/churn, potentiel marché territorialisé, … avec une particularité au niveau de la nature de données : la possibilité permanente de travailler sur l’hybridation des données multi sources (enquêtes, CRM, Open Data, Réseaux Sociaux, …).
+Vous évoluerez dans un environnement de spécialistes de la Data et serez entourés d’experts Data Scientist, Data Analyst et Data Engineer.
+Profil recherché
+Vous êtes la perle rare car …
+Vous êtes diplômé(e) d’un Bac +4/+5 en Statistique/ Econométrie, Mathématiques Appliquées ou Data Science.
+Vous avez des connaissances en :
+Statistical analysis,
+Data Mining,
+Data-driven decision making,
+Machine Learning.
+Et en termes de compétences techniques :
+Langage de programmation : R et/ou Python.
+Notebooks : RStudio et/ou Jupyter
+Logiciels statistiques : SAS et/ou SPSS
+Data Platform type Azure
+On est fait pour vous car …
+Nous avons gardé notre esprit start ’up : collaboration, reconnaissance, convivialité et esprit d’initiative font partie de nos valeurs.
+Nous avons à cœur d’associer nos collaborateurs à notre développement.
+Pour notre déménagement à Clichy en 2020, nous réinventons chaque jour notre manière de travailler. Objectifs : souplesse, agilité, liberté !
+Nos soirées sont à l’image de nos collaborateurs : créatives, innovantes et un peu folles.
+Nous offrons le petit déjeuner tous les matins, pour bien commencer la journée !
+Indemnité de stage :
+Entre 900€ et 1100€ bruts, selon le niveau d’études et durée du stage + tickets restaurant (avec la participation de l’employeur) + remboursement 50% titre de transport + 1RTT/mois.
+Début du stage : Dès que possible
+Durée : 6 mois
+Lieu : Boulogne-Billancourt (92) puis Clichy (92) dès l’été 2020.
+Informations complémentaires
+Type de contrat : Stage
+Lieu : Boulogne-Billancourt, France (92100)
+Niveau d'études : Bac +4"
+Data Analyst H/F,La Défense (92),EY,Indisponible,"EY est numéro 1 du palmarès « Great Place to Work » 2019 des entreprises de plus de 5 000 collaborateurs, et premier cabinet de conseil dans les classements 2019 Universum et LinkedIn Top Companies.
+EY, c’est surtout une multitude d’expériences à vivre, de nombreux secteurs à explorer, des rencontres hors du commun… Bienvenue dans notre monde en mouvement perpétuel !
+Au sein d’EY Consulting France, nous regroupons une combinaison unique d’expertises sectorielles et de compétences en Stratégie, Performances, Digital et Risques. Nos 1500 consultants couvrent l’intégralité de la chaîne de valeur de nos clients.
+
+Au sein d’EY Consulting, EY Analytics est en charge d’accompagner nos clients sur les problématiques autour de la Data : de la stratégie à la mise en œuvre opérationnelle de projets (Analytics/IA, Business Intelligence…) .
+
+Pour soutenir notre forte croissance, notre équipe cherche à se renforcer de 50 nouveaux talents (Data Engineers, Data Scientists, Data Analysts, Data Strategists, Data Architects).
+
+Venez rejoindre le premier pôle français de compétences en datascience !
+
+EY Analytics en France c’est :
+une équipe de plus de 130 consultants data, aux profils très divers, permettant de couvrir l’ensemble des problématiques et de s’enrichir mutuellement
+un Lab d'une surface de 600m² dédiée à l'innovation autour de la Data;
+le leader mondial du conseil en innovation (rapport Forresters);
+plus de 500 missions data driven;
+une équipe expérimentée, gage d’excellence pour encadrer les projets et vous faire grandir
+des projets d’une grande diversité, auprès des plus grands clients nationaux et internationaux
+Pour renforcer celle-ci, EY Analytics recrute un Data Analyst (H/F). Vous rejoindrez une équipe dynamique, enthousiaste et multiculturelle et vous aurez l'occasion d'intervenir sur des projets transformatifs et innovants.
+
+Vos missions
+Vous accompagnerez nos clients sur leurs différents besoins de traitement de données, d'analyses et de mise en place de reporting
+Concevoir, implémenter et développer des solutions de reporting, d'analyse de données ou de visualisations de données (Power BI, Tableau…)
+Préparer les données (contrôle de qualité, de cohérence, transformations…), aider à construire un prototype pour ensuite interpréter les données et analyser les résultats
+Rencontrer les parties prenantes de l'entreprise pour recenser les besoins et définir les exigences métiers.
+Se synchroniser avec les intervenants techniques pour examiner le code et anticiper les points de difficultés
+Votre profil
+Formation école d'ingénieur ou université en analyse statistique ou décisionnelle
+SQL, R ou Python
+Outils de DataViz : Power BI, Tableau, Spotfire , Qlikview, Qliksense
+Connaissance d’Azure et des technologies Microsoft un réel plus : Azure SQL Server SSIS, SSAS…
+Expertise technique en matière de modèles de données, de développement de conception de base de données, de techniques d'exploration de données et de segmentation
+Capacité d'analyse et manipulation de données
+Être orienté client et business, sans se focaliser uniquement sur les aspects techniques
+Curiosité, bonne culture technologie et un intérêt pour le développement de solutions de traitement de données
+Ouverture d'esprit et capacité à collaborer avec de multiples intervenants
+Esprit analytique, de synthèse et de rigueur, orienté résultat
+Bonne capacité de communication écrite et orale avec les métiers
+Entrons ensemble dans l’ère de la révolution digitale et de la transformation des organisations ! La richesse de nos métiers, l’excellence de nos équipes, l’amplitude de nos réseaux, notre capacité à nous remettre en question, nos exigences élevées de qualité, notre éthique professionnelle, sont les fondements de notre réputation, le gage de nos futurs succès et de votre épanouissement professionnel.
+
+Vivez l’expérience EY Consulting, rejoignez-nous !
+
+EY est un employeur qui pratique l'égalité des chances."
+Ingénieur Data Scientist Junior F/H,Toulouse (31),CS COMMUNICATION & SYSTEMES,Indisponible,"CS Group recherche un(e)
+
+Data Scientist Junior (H/F)
+
+afin d'accompagner la croissance de son activité dans le département Systèmes d'Information.
+
+Vous réaliserez les missions suivantes :
+Développer des outils de traitements de données : data visualisation, data wrangling, statistiques, Machine Learning, …;
+
+Analyser de gros volumes de données de type 'série temporelle', rédiger les rapports d'analyse, et assurer la présentation au client.
+Profil recherché Ingénieur de formation ou équivalent universitaire (BAC+5), vous bénéficiez de qualifications dans les domaines Statistiques, Machine Learning et Mathématiques appliqués. De plus, vous êtes compétent en développement logiciel.
+
+Vous disposez des connaissances suivantes:
+Langages Python (inlcuant Numpy, Scipy et Scikit-Learn), R, Javascript;
+
+MapReduce et Spark en particulier;
+
+Techniques de tests unitaires et de profilage de code;
+
+Utilisation et configuration des outils IDE tels Eclipses/IntelliJ/PyCharm;
+
+Gestionnaires de faits techniques, forges logicielles et outils de gestion de code source (Git).
+
+La maîtrise de Java et Hadoop Stack serait appréciée.
+
+Vous serez amené à faire de la rédaction et des présentations en anglais.
+
+Bon communiquant, votre capacité d'analyse et de résolution des problèmes sont des atouts essentiels pour réussir dans cette fonction.
+Entreprise CS Group en quelques mots ?
+
+CS Group est un concepteur, intégrateur et opérateur de systèmes critiques intelligents cyberprotégés.
+
+En proposant des solutions innovantes dans les domaines de la cyber sécurité, des systèmes sûrs industriels et embarqués, de la continuité numérique et de la gestion de crise et de la surveillance de zones, CS Group a su s'imposer en tant que partenaire privilégié pour les acteurs des secteurs de la Défense et de la Sécurité, du Spatial, de l'Aéronautique et de l'Energie. (www.c-s.fr)
+
+Nous rejoindre c'est :
+Bénéficier d'un management de proximité.
+Progresser individuellement et collectivement.
+Evoluer dans un environnement flexible (télétravail…), à dimension humaine et convivial.
+Où sommes-nous situés ?
+
+Notre agence se situe à Saint-Martin du Touch - 6 rue Emmanuel Arin - 31300 Toulouse.
+
+Le site Europarc 2 est accessible en transports en commun :
+Ligne de Bus L2 - Arrêt Jean Petit.
+Ligne C SNCF TER - Arrêt Saint-Martin
+Si vous préférez, CS rembourse des indemnités kilométriques vélos !
+
+Intéressé ? Déposez votre CV et additionnons nos talents !"
+Alternance - Data Scientist F/H - Rouen,Rouen (76),Matmut,Indisponible,"Intitulé du poste externe
+Alternance - Data Scientist F/H - Rouen
+Description de la mission
+La Matmut ne fait que de l'assurance ? FAUX !
+
+400, c'est le nombre de collaborateurs travaillant au sein de la Direction Informatique de la Matmut. Une aubaine pour toi si tu souhaites nous rejoindre et proposer tes idées !
+
+Ton quotidien ?
+
+Rattaché à la Direction Informatique, tu participe aux missions de l'équipe Data (Décisionnel et DataLab).
+
+En ce sens, tu participes à la construction de solutions informatiques empiriques d'une certaine complexité pour éclairer sur des faisabilités et les moyens les plus adaptés pour les transformer en récurrents.
+
+Tu réalises le développement en SAS, SQL, Python, R. et participes à la conception d'indicateurs business et suivi d'activité.
+
+Tu rédiges et exécutes des tests et contribues à la conception et à la recherche de solutions techniques de collecte, de nettoyage, d'analyse, de visualisation de données, de développements, d'industrialisation de traitements, autour des techniques de BI classique ou du bigdata/machine learning.
+
+Tu rédiges la documentation technique et fonctionnelle, et assure la présentation des travaux réalisés.
+Profil
+Tu sais que cette offre est faite pour toi si :
+
+Tu maîtrises des outils et méthodes d'analyse et développement (SAS, SQL, Python, R), de l'organisation des structures de données, des tests.
+
+Tes connaissances dans le domaine du BigData sont fortes (acquises ou en cours d'acquisition),
+
+Tu es curieux, rigoureux, force de propositions et doté d'un bon esprit d'équipe
+
+Tes capacités rédactionnelle et de formalisation sont reconnues.
+
+Tu te reconnais ? Postules en ligne en joignant ton CV et une lettre d'accompagnement expliquant en quoi tes expériences font de toi la personne idéale pour nous rejoindre !
+
+On te parle de nous ?
+
+La Matmut recherche de nouveaux talents pour accompagner sa transformation et son développement avec engagement et ambition, tout en conservant son ADN.
+
+Confiante et bienveillante envers ses salariés, elle construit avec eux des parcours professionnels motivants. Convaincu que la diversité des potentiels est une richesse, elle accompagne, forme et fait grandir tous les talents.
+
+Depuis 1961, le Groupe Matmut est complice de vie de ses sociétaires. Profondément humain et fier de son appartenance à la famille mutualiste, il s'adresse à tous - particuliers, professionnels, entreprises, associations – en proposant une gamme complète de produits d'assurance des biens et des personnes et de services financiers et d'épargne.
+Contrat
+ALTERNANCE
+Localisation du poste
+Lieu
+66, rue de Sotteville - 76100 ROUEN"
+ASSISTANT DATA SCIENTIST H/F - STAGE 3 MOIS,Mérignac (33),BNP Paribas,Indisponible,"ASSISTANT DATA SCIENTIST H/F - STAGE 3 MOIS (NUMÉRO DE L'EMPLOI : PF_20032020_1)
+
+BNP Paribas Personal Finance cherche son futur Assistant Data Scientist H/F !
+
+Zoom sur votre quotidien
+
+Dans le cadre de votre stage vous aurez pour mission de réaliser une veille sur les techniques de rééchantillonnage existantes, vous étudierez et comprendrez la mécanique de ces approches et vous identifierez leurs avantages et inconvénients en lien avec les besoins du Centre de scoring,
+
+Vous aurez pour mission de produire des tests de comparaison de ces techniques et vous essayerez de produire les règles de leur application
+Enfin vous documenterez et présenter les travaux menés à l’équipe.
+
+Les missions c’est important mais l’équipe et l’environnement de travail aussi !
+
+Au sein de la Direction des Risques, le Centre de scoring a pour mission de construire et de maintenir les modèles statistiques d’aide à la décision utilisés pour la gestion du risque dans les différentes entités du Groupe BNPP PF.
+Très souvent pour la construction de ses modèles, le Centre de scoring doit traiter des bases de données non équilibrées dans lesquelles une des modalités de la variable cible est très largement sous représentée par rapport à l’autre (ex. une proportion de fraudeurs de 1%).
+
+Dans le cadre de l’amélioration de ses pratiques, le Centre de scoring souhaite évaluer si le recours à des méthodes destinées à ré équilibrer la base de données (over- ou undersampling) peut permettre d’obtenir un modèle plus performant. Cette problématique pose également la question du choix de la métrique d’évaluation d’un modèle dans une telle situation.
+
+Pourquoi BNP Paribas Personal Finance ?
+
+
+BNP Paribas Personal Finance est la filiale du Groupe BNP Paribas, N°1 sur le financement des particuliers en France et en Europe et comprend 20.000 collaborateurs.
+
+Vous voulez connaître toutes les raisons de nous rejoindre ? Rendez-vous sur : https://www.bnpparibas-pf.com/fr/
+
+Parlons de vous maintenant !
+
+Vous préparez une formation bac+4/5 du type école d'ingénieur ou équivalent universitaire avec une spécialité en Statistique, Mathématiques appliquées ou Data science.
+
+Votre compétence porte à la fois sur les dimensions pratique (mise en œuvre) et théorique (compréhension des concepts) en Machine Learning et vous maitrisez le langage Python.
+
+Rigoureux, vous avez développé une grande capacité d’analyse et d’apprentissage.
+Enfin vous êtes à l’aise pour communiquer que se soit à l’oral ou à l’écrit.
+
+Informations complémentaires :
+
+Le stage est d'une durée de 3 mois t basé à Mérignac (33).
+
+Alors n’hésitez plus… Postulez !"
+DATA SCIENTIST F/H,Le Bouscat (33),Aquitem,Indisponible,"DESCRIPTION DU POSTE
+Groupe Aquitem - partenaire de votre succès !
+Créé en 1987, le groupe réunit aujourd'hui deux sociétés et 120 personnes sur le même site ayant pour cœur d’expertise la DATA :
+Aquitem, spécialiste de la conception, gestion et mise en place opérationnelle de programmes de fidélité pour les grandes enseignes
+
+Aliénor.net, spécialiste web et hébergement à valeur ajoutée sur ses propres infrastructures.
+
+Quelques mots nous caractérisent : #Qualité #Service #Innovation #Data #Technologie.
+
+AQUITEM recherche aujourd'hui un/une Data scientist.
+De formation supérieure (BAC+5) en mathématiques/statistiques, vous maîtrisez les concepts et les outils modernes de gestion des bases de données relationnelles. Vous avez déjà participé dans le cadre d'une première expérience ou de stages à la gestion de bases de gros volumes et conçu des algorithmes et des statistiques appliquées au marketing.
+
+Au sein de notre division ZeFid' qui gère des bases de données marketing de gros volumes pour des grandes enseignes, vous intégrerez l'équipe de data scientists (5 personnes) et travaillerez en étroite collaboration avec les services de la société (Direction, Chef de projet Marketing, Chef de Projet technique...)
+
+Vos missions consisteront à :
+concevoir et implémenter des modèles statistiques ou des algorithmes de machine learning (classification, scoring, recommandation, etc…)
+
+réaliser des études et des analyses permettant une meilleure connaissance du profil des clients des enseignes dont nous gérons les programmes de fidélisation afin d'optimiser ces derniers
+
+agréger, regrouper et donner du sens aux données pour les mettre à disposition des équipes marketing
+
+accompagner les équipes marketing opérationnelles sur les questions de préconisation de ciblage et d’analyses d’opérations
+
+établir des bilans statistiques et des états de reporting dont vous participerez à l'automatisation
+
+contribuer au développement de notre outil de Datavisulisation MyDataviz'
+
+
+Pour réussir sur ce poste, vous êtes curieux, rigoureux et méthodique, vous avez une bonne aisance relationnelle et rédactionnelle. Vous maîtrisez les langages SQL et R.
+
+Quelques petits plus que nous apprécierions : connaissance de Python, des bases NoSQL et d'un outil décisionnel type Business Object
+
+Chez nous, vous aurez 21 jours de RTT, des tickets restaurant, une prime de vacances et une prime de fin d’année, une excellente mutuelle et une prévoyance de branche.
+De plus, il fait bon travailler chez AQUITEM : Parking facile, accès transports en commun, prime Vélo!
+
+FORMATION EXIGÉE
+Bac+5
+
+EXPÉRIENCE EXIGÉE
+stages ou première expérience
+
+TYPE DE CONTRAT
+CDI
+
+SALAIRE INDICATIF
+selon profil
+
+LIEU DE TRAVAIL
+Le Bouscat"
+Consultant stagiaire - Data & Analytics - Neuilly-Sur-Seine...,Neuilly-sur-Seine (92),Grant Thornton France,Indisponible,"Analyse de données, recherche de fraude, solutions de contrôle continu, Machine Learning, Big Data…
+
+Au sein de Grant Thornton, 6e cabinet national d’audit et de conseil, nous recrutons aujourd’hui, dans le cadre du développement de notre équipe dédiée au conseil Business Risk Services, un consultant stagiaire.
+
+Le consultant aura pour principales missions d’accompagner l’équipe sur ses missions diverses en cours (participation à la production de livrables, déplacements en clientèle…) ainsi que de contribuer au développement de l’offre commerciale.
+
+Les principales missions du consultant seront les suivantes :
+Sous la supervision d’un consultant, participer à des missions de conseil portant sur la recherche de fraude, la mise en place de solutions de contrôle continu et de reportings automatisés à l’aide d’outils de Data Visualisation
+Contribuer au développement de l’entité Business Risk Services en participant à des projets internes.
+Pour ce faire, le consultant bénéficie des qualités suivantes : autonomie, proactivité, fort intérêt pour l’analyse de données, capacités rédactionnelles, analytiques et synthétiques, aisance orale, rigueur…
+
+Diplômé d’une formation d’Ecole d’Ingénieur, idéalement complétée par une spécialisation en gestion, vous souhaitez rejoindre une équipe en croissance
+
+Idéalement, vous recherchez un stage de fin d’étude à compter de septembre 2020 ou janvier 2021 pour une durée de 6 mois.
+
+Désireux de rejoindre un cabinet en croissance, vous êtes impliqué, doté d’un excellent relationnel et souhaitez travailler au sein d’équipes pluridisciplinaires. Vous êtes curieux, motivé et avez une grande capacité d’adaptation.
+
+La connaissance des outils et techniques d’analyse de données (SQL, Google Big Query, ACL, Data Studio, Python, Power BI, etc.) est un plus.
+
+Vous maîtrisez l'anglais dans un environnement professionnel.
+
+A compétences égales, travailleurs en situation de handicap bienvenus !"
+Stage - Data Scientist,Paris (75),Euler Hermes Group,Indisponible,"Euler Hermes helps companies expand their business worldwide by securing their trade receivables. It is the world leader in Trade Credit Insurance, and part of the Allianz Group.
+
+Euler Hermes is revolutionizing the way of delivering Credit Insurance. The company launched its data lab to accelerate the company’s digital transformation and build it into its core strategy.
+
+Our ambition is to settle a Data Driven company organization by creating Regional Data Labs to run innovative, Big Data, Machine Learning initiatives and deliver disruptive applications.
+
+EH France Data Lab is part of the “Digital Acceleration” Team, in charge of various B2B business innovations, digital product management and partnerships. It directly reports to EH France executive committee. It closely works with EH Group Data Lab, which supports and rolls-out all data science initiatives throughout the Group and helps data scientists to develop their machine learning skills.
+
+Focus will be on how to provide quantitative, data driven insights with actionable results that will underline strategic decision across all business areas – for example:
+
+Does machine learning help better identify prospects?
+How could open data increase the performance of existing models?
+How to better detect fraudulent behaviors?
+How could we improve our services with a better understanding of the customer journey?
+EH France Data Lab, as a local team of 3 data scientists, will cover the main priorities of the Region with a portfolio of data initiatives in Marketing, Commercial, Operations, Risk and Innovation.
+
+Main tasks:
+The Intern Data Scientist for EH France will report to the Lead Data Scientist and will take ownership of existing Marketing machine learning projects, his/her principal missions would be:
+
+#1 – Maintain, monitor & improve models, by being directly in charge of 2 machine learning projects in production:
+
+Research, implement and improve existing marketing models using new approaches and features
+Define KPIs and measure impacts on business for a running Churn prediction model
+Supervise the production for an existing commercial prospection algorithm into operational processes, measure the results and monitor the performance
+#2 –Support regional Data experiments
+
+Data quality assessment
+Data exploration
+Statistical analysis and machine learning modelling
+Generate reports, annotated code, and other projects artifacts to document, archive, and communicate your work and outcomes
+Perform statistical analyses and ""deep dives"" into the data, and present and discuss solutions with business partners.
+Master’s Degree in a “STEM” major (Science, Technology, Engineering, Mathematics)
+Knowledge / experience in implementing R or Python machine learning algorithms
+Demonstrated skills at data cleansing, data quality assessment, in the use of applied analytics, descriptive statistics, and predictive analytics
+Having the ability to query databases and perform statistical analysis; able to develop or program databases
+Rigorous and autonomous
+Strong entrepreneurial spirit, able to work in a fast-paced multidisciplinary environment and in close contact with business managers
+Interest in innovations and data science evolutions
+Strong written and verbal communication skills
+Fluent English spoken and written mandatory
+Euler Hermes, the world’s leading provider of credit insurance services, helps its customers around the globe to trade wisely and develop their business safely. With 6,000 employees from more than 70 nationalities, in over 50 countries, Euler Hermes offers a complete range of services for the management of B-to-B trade receivables.
+
+Euler Hermes has developed a credit intelligence network to analyze the financial stability of 40+ million businesses across the globe. Euler Hermes, a company of Allianz, is rated AA by Standard & Poor’s.
+
+At Euler Hermes, we are committed to support our employees in every step of their professional journey, provide tailor-made development programs and open gateways to international opportunities. We encourage them to take ownership and accountability, and to dare to make a difference!
+
+For more information visit http://www.eulerhermes.com/"
+Data Scientist - Stage F/H,Paris (75),AG2R La Mondiale,Indisponible,"Référence : 2020-23526
+Caractéristique du poste
+Type de contrat : Stagiaire
+Pays / région / département : France, Ile-de-France , PARIS (75)
+Ville : PARIS
+Votre rôle principal
+Rattaché à la direction actuariat produit, nous recherchons un stagiaire orienté Data sciences.
+Nous vous proposons de faire évoluer les modèles actuariels classiques en saisissant les opportunités offertes par le big data et les techniques du ML (Machine Learning), tout en intégrant les contraintes réglementaires et éthiques.
+Depuis quelques années, le monde de l’assurance connait des mutations importantes :
+Digitalisation, big data, algorithmes du ML : présentent une opportunité aux assureurs leur permettant de valoriser les données (dark data), améliorer leur connaissance du risque et mieux répondre aux attentes de l’assuré.
+Cette opportunité est étroitement liée à des enjeux importants sur le marché : une concurrence accrue liée aux nouveaux arrivants (insurtechs, GAFA …) et une inflation réglementaire de plus en plus importante liée à l’utilisation éthique des données et des systèmes de l’IA.
+Vos responsabilités
+Le stagiaire sera amené à challenger les modèles actuariels et proposer des algorithmes innovants pour l'amélioration de la connaissance client (Know Your Customer) en vue de personnaliser l'offre et affiner la tarification des produits prévoyance/santé :
+Compréhension des besoins métiers en termes de modélisation du risque actuariel;
+Implémentation des modèles de ML;
+Mesure de la performance du modèle et interprétation des résultats dans un souci de réponse à la problématique métier identifiée.
+
+Vos compétences et atouts
+
+Vous suivez un cursus de formation orienté DATA Sciences.
+
+Vous avez des connaissances dans les outils suivants :
+Méthodes statistiques, SAS base et SQL
+Compréhension et connaissance d’algorithmes basiques du ML
+Librairies python pour les projets data science (pandas, sickit-learn, keras …)
+
+Dynamisme, rigueur, curiosité, ouverture d’esprit, esprit d’analyse et de synthèse"
+STAGE - Data Scientist H/F,Boulogne-Billancourt (92),BVA group,Indisponible,"À propos
+Fondée en 1970, BVA Group est une société d’études et de conseil française, experte en sciences comportementales, classée parmi les 20 premières au monde.
+Chaque jour, les collaborateurs de BVA aident les marques et les organisations à améliorer l’expérience de leurs clients, collaborateurs ou des citoyens pour générer progrès et croissance équitable.
+Les solutions conseil de leur BVA Nudge Unit, plusieurs fois primée, aident consommateurs et collaborateurs à passer de l’intention à l’action.
+Au-delà de ses différentes localisations en France, BVA possède également des bureaux à New York, Chicago, Londres, Genève, Hambourg, Francfort, Rome, Milan, Hong Kong, Shanghai et Singapour.
+Descriptif du poste
+Afin de participer à la réalisation de nos études et de nos projets de R&D, nous recherchons un(e) Stagiaire Data Scientist H/F pour notre équipe Data. Vous aurez l’opportunité de travailler pour des clients de l’univers de la banque-assurance, automobile, télécom-multimédia, tourisme, transport, industrie, du commerce et de la distribution.
+Ce que nous pouvons accomplir ensemble ?
+En tant que Stagiaire Data Scientist chez BVA, vous serez intégré à notre équipe de Data Scientists. Vous participerez à la bonne réalisation des études en prenant en charge la production d’analyses statistiques et à la mise en place de nouveaux outils ou de nouvelles méthodes.
+D’une manière générale, vous serez en charge de :
+
+1. Prendre en main et optimiser des scripts pour la mise en œuvre d’analyses statistiques multivariées (analyses factorielles, segmentations, modélisation, etc.)
+2. Accompagner les Data Scientists Séniors dans un projet de recherche et développement visant à découvrir et mettre en place de nouveaux outils ou de nouvelles méthodes sur l’un des thèmes suivants : l’exploitation des données multi sources, data expanding, modélisations complexes, machine learning…
+Vous interviendrez sur des problématiques diverses : satisfaction client, rétention/churn, potentiel marché territorialisé, … avec une particularité au niveau de la nature de données : la possibilité permanente de travailler sur l’hybridation des données multi sources (enquêtes, CRM, Open Data, Réseaux Sociaux, …).
+Vous évoluerez dans un environnement de spécialistes de la Data et serez entourés d’experts Data Scientist, Data Analyst et Data Engineer.
+Profil recherché
+Vous êtes la perle rare car …
+Vous êtes diplômé(e) d’un Bac +4/+5 en Statistique/ Econométrie, Mathématiques Appliquées ou Data Science.
+Vous avez des connaissances en :
+Statistical analysis,
+Data Mining,
+Data-driven decision making,
+Machine Learning.
+Et en termes de compétences techniques :
+Langage de programmation : R et/ou Python.
+Notebooks : RStudio et/ou Jupyter
+Logiciels statistiques : SAS et/ou SPSS
+Data Platform type Azure
+On est fait pour vous car …
+Nous avons gardé notre esprit start ’up : collaboration, reconnaissance, convivialité et esprit d’initiative font partie de nos valeurs.
+Nous avons à cœur d’associer nos collaborateurs à notre développement.
+Pour notre déménagement à Clichy en 2020, nous réinventons chaque jour notre manière de travailler. Objectifs : souplesse, agilité, liberté !
+Nos soirées sont à l’image de nos collaborateurs : créatives, innovantes et un peu folles.
+Nous offrons le petit déjeuner tous les matins, pour bien commencer la journée !
+Indemnité de stage :
+Entre 900€ et 1100€ bruts, selon le niveau d’études et durée du stage + tickets restaurant (avec la participation de l’employeur) + remboursement 50% titre de transport + 1RTT/mois.
+Début du stage : Dès que possible
+Durée : 6 mois
+Lieu : Boulogne-Billancourt (92) puis Clichy (92) dès l’été 2020.
+Informations complémentaires
+Type de contrat : Stage
+Lieu : Boulogne-Billancourt, France (92100)
+Niveau d'études : Bac +4"
+Data Scientist (H/F),Paris (75),Le Lynx,Indisponible,"Chez LeLynx.fr, la data est utilisée au quotidien par l’ensemble de l’équipe pour le suivi des résultats et l’aide à la prise de décision.
+Dans ce contexte, vous serez en charge de l’analyse de notre expérience client et de son impact business.
+Vous participerez à la mise en place d’un projet d’amélioration du service LeLynx.fr basé sur du machine Learning, notamment :
+choix des modèles statistiques à utiliser ;
+automatisation des modèles ;
+optimisation des modèles ;
+intégration de nouveaux indicateurs dans les modèles.
+Vous serez amené.e à :
+publier des tableaux de bord sur notre outil de BI et à produire des études de données pour les différents services business ;
+mettre à jour des modèles statistiques existants ;
+proposer de nouveaux modèles ;
+animer régulièrement des formations cross service pour faire vivre la culture data au sein de l’entreprise.
+Enfin, vous êtes le garant du bon fonctionnement de processus récurrents tels que le processus d’intégration des données partenaires suite à l’envoi de données de facturation.
+De manière générale, en tant que membre de l’équipe Data, vous serez une référence concernant l’accès aux données, leur compréhension et leur analyse, auprès de l’ensemble de l’équipe LeLynx.fr.
+Profil recherché
+Vous êtes diplomé.e d’une formation de l’enseignement supérieur avec spécialisation en machine learning. Vous possédez une première expérience en entreprise en tant que Data Scientist.
+Vous êtes à l’aise avec les outils ou langages suivants :
+R ou Python pour les modèles statistiques
+SQL pour l’extraction de données
+Tableau Software pour l’analyse et la visualisation de données
+Vous serez amené.e à échanger avec les différentes entités du groupe Admiral (en Inde, au Royaume- Uni, en Espagne). Dans ce contexte, votre niveau d’anglais est opérationnel, à l’écrit comme à l’oral. Vous êtes rigoureux.se, force de proposition et pédagogue.
+Modalités :
+Le poste est basé à Paris 19ème, le long du canal de l’Ourcq (concours de pétanque et piqueniques à foison l’été).
+Nous proposons des fruits, du café et du thé à volonté, ainsi que des sorties mensuelles (expos, bars, activités team building…), bref, tout ce qu’il faut pour que vous soyez le plus heureux possible.
+Date de démarrage : Lundi 4 mai
+Rémunération : Selon profil
+Mutuelle, carte déjeuner & remboursement transports à hauteur de 50%
+Informations complémentaires
+Type de contrat : CDI
+Date de début : 04 mai 2020
+Lieu : Paris, France (75019)
+Expérience : > 2 ans"
+DATA SCIENTIST F/H,Nomexy (88),INNOTHERA NOMEXY,Indisponible,"Les principales missions auxquelles vous participerez sont les suivantes, au cœur de l’organisation à la croisée de la Production, la Qualité, la Supply Chain, la Maintenance, le Développement Produits/Process :
+
+Analyser et « faire parler » les données entreprises
+
+Rechercher les multi corrélations et proposer des règles d’affectation et de pilotage machine en s’appuyant sur un historique complet de plusieurs années
+
+Mettre en place un dispositif permettant par l’analyse des signaux faibles afin d’anticiper toute dérive qualité ou performance
+
+Structurer le recueil des données, les transformer en information et bâtir un système d’aide à la décision pour garantir une amélioration continue des standards.
+Profil recherché Formation MASTER Traitement de l'information et exploitation de données, Ingénieur d'études en traitement de l'information et analyse de données
+
+Expertise statistique et informatique. Connaissance des bases de données. connaissance des méthodes de machine Learning, maîtrise d'outils analytiques.
+
+Organisation, grande rigueur et esprit de confidentialité. Goût pour les chiffres, les statistiques et le ""terrain"".
+
+Sens de la communication, curiosité intellectuelle.
+Entreprise Animé par des valeurs profondément humanistes, INNOTHERA, laboratoire familial et indépendant, mise depuis plus de 100 ans sur l’innovation et la technologie pour améliorer le traitement des maladies du quotidien qui empoisonnent la vie de millions de personnes dans le monde. INNOTHERA NOMEXY recrute au sein de son site basé dans les Vosges (340 personnes), qui développe et produit des dispositifs médicaux pour le traitement des maladies veineuses, un data scientist, en CDD de 6 ."
